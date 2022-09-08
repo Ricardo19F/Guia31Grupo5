@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio06.css"?>
+<!-- Ejercicio06.xml  CM19138 -->
+<materias_ciclo>
+
+  <estudiante id="1">
+    <nombres>Samuel Orlando</nombres>
+    <apellidos>Miranda Martínez</apellidos>
+    <carnet>MM21001</carnet>
+
+    <lista_materias>
+
+      <materia id="PRN315">
+        <codigo>PRN315</codigo>
+        <nombre>Programación III</nombre>
+        <gt>LUN y MIÉ (8:05 AM - 9:45 AM)</gt>
+        <gl>MIÉ (11:35 AM - 1:15 PM)</gl>
+      </materia>
+
+      <materia id="MSM115">
+        <codigo>MSM115</codigo>
+        <nombre>Manejo de Software</nombre>
+        <gt>MAR y VIE (8:05 AM - 9:45 AM)</gt>
+        <gl>VIE (11:35 AM - 1:15 PM)</gl>
+      </materia>
+
+      <materia id="MAT415">
+        <codigo>MAT415</codigo>
+        <nombre>Matemáticas IV</nombre>
+        <gt>LUN - MIÉ (1:20 PM - 3:00 PM)</gt>
+        <gl>VIE (1:20 PM - 3:00 PM)</gl>
+      </materia>
+    </lista_materias>
+
+  </estudiante>
+
+</materias_ciclo>

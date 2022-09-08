@@ -4,8 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+
     <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Changa:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -18,7 +19,7 @@
     <main>
       <div class="main__contenedor--holograma">
         <div class="holograma">
-          <img src="img/hologram.png" alt="menu" />
+          <img src="img/hologram.png" id="holograma" alt="menu" />
 
           <button id="AD">AD17006</button>
           <button id="AR">AR15068</button>
@@ -32,7 +33,41 @@
           <button id="PH">PH18005</button>
         </div>
       </div>
-      <div class="main__contenedor--opciones"></div>
+      <div class="main__contenedor--opciones">
+        <div class="contenido">
+          <div class="contenido__header">
+            <div class="contenido__info">
+              <div class="contenido__info_carnet"><span id="carnet"></span></div>
+              <div class="contenido__info_nombre" id="nombre"></div>
+            </div>
+            <div class="contenido__close">
+              <button onclick="closeModal()">&times;</button>
+            </div>
+          </div>
+
+          <div class="contenido__ejercicios">
+            <!-- <div class="contenido__ejercicios_titulo">Ejercicio 4</div> -->
+            <div class="contenido__ejercicios-XML">
+              <div class="XML--title">XML</div>
+              <div class="XML--enlaces" id="XML--enlaces">
+                <a target="_blank" href="">Ejercicio 4.xml</a><a target="_blank" href="">Ejercicio 5.xml</a><a target="_blank" href="">Ejercicio 6.xml</a>
+              </div>
+            </div>
+            <div class="contenido__ejercicios-JSON">
+              <div class="JSON--title">JSON</div>
+              <div class="JSON--enlaces" id="JSON--enlaces">
+                <a target="_blank" href="">Ejercicio 4.json</a><a target="_blank" href="">Ejercicio 5.json</a><a target="_blank" href="">Ejercicio 6.json</a>
+              </div>
+            </div>
+            <div class="contenido__ejercicios-CSS">
+              <div class="CSS--title">CSS</div>
+              <div class="CSS--enlaces" id="CSS--enlaces">
+                <a target="_blank" href="">Ejercicio 4.css</a><a target="_blank" href="">Ejercicio 5.css</a><a target="_blank" href="">Ejercicio 6.css</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
     <footer>
       <div class="footer__contenedor">
@@ -76,12 +111,12 @@
             <tr>
               <td>Meléndez López, Diana Carolina</td>
               <td>◄ : : :</td>
-              <td>MM20191</td>
+              <td>ML17017</td>
             </tr>
             <tr>
               <td>Morán Arriola, Luis Enrique</td>
               <td>◄ : : :</td>
-              <td>MM20191</td>
+              <td>MA20025</td>
             </tr>
             <tr>
               <td>Palacios Ortiz, Leonel Alejandro</td>
@@ -103,7 +138,7 @@
         <p><br />TPI-115 : : Técnicas de Programacion para Internet <br />Universiad de El Salvador - 2022</p>
       </div>
     </footer>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
     <script src="index.js"></script>
   </body>
 </html>

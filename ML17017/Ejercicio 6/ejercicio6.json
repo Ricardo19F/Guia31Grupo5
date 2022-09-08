@@ -1,0 +1,35 @@
+{
+  "ciclo": {
+    "estudiante": {
+      "nombre": "Diana Carolina",
+      "apellidos": "Meléndez López"
+    },
+    "materia": [
+      {
+        "nombre": "Técnicas de programacion para internet",
+        "teorico": "Jueves de 8:00pm a 10:00pm",
+        "laboratorio": "Martes de 8:00pm a 9:00pm"
+      },
+      {
+        "nombre": "Ingenieria de Software",
+        "teorico": "Martes y Viernes de 4:50pm a 6:30pm",
+        "laboratorio": "Miercoles de 3:05pm a 4:45pm"
+      },
+      {
+        "nombre": "Diseño de Sistemas",
+        "teorico": "Lunes y Miercoles de 6:30pm a 8:15pm",
+        "laboratorio": "Juevea de 6:30pm a 8:15pm"
+      },
+      {
+        "nombre": "Analisis Financiero",
+        "teorico": "Lunes y Miercoles de 9:50am a 11:30am",
+        "laboratorio": "Jueves de 4:50pm a 6:30pm"
+      },
+      {
+        "nombre": "Arquitectura de Computadoras",
+        "teorico": "Lunes y Miercoles de 4:50pm a 6:30pm",
+        "laboratorio": "Martes de 9:50am a 11:30am"
+      }
+    ]
+  }
+}

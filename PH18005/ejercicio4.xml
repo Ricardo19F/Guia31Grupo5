@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio4.css" type="text/css"?>
+<registro>
+  <estacion nombre="UES" departamento="San Salvador" region="Central">
+    <temperaturas fecha="07/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+    <temperaturas fecha="08/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+    <temperaturas fecha="09/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+    <temperaturas fecha="10/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+    <temperaturas fecha="11/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+    <temperaturas fecha="11/09/2021" tipo_registro="semanal">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+  </estacion>
+  <estacion nombre="Finca Los Andes" departamento="Santa Ana" region="Occidente">
+    <temperaturas fecha="07/09/2021" tipo_registro="diario">
+      <minima>20.1 °C</minima>
+      <promedio>26.7 °C</promedio>
+      <maxima>33.3 °C</maxima>
+    </temperaturas>
+  </estacion>
+  <estacion nombre="La Palma" departamento="Chalatenango" region="Central">
+    <temperaturas fecha="07/09/2021" tipo_registro="diario">
+      <minima>15.9 °C</minima>
+      <promedio>22.2 °C</promedio>
+      <maxima>28.3 °C</maxima>
+    </temperaturas>
+  </estacion>
+</registro>

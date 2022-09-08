@@ -1,0 +1,30 @@
+{
+    "agenda": {
+        "contacto": [
+            {
+                "@id": "1",
+                "nombre": "Juan",
+                "tel_fijo": "2211 2211",
+                "celular": "7711 7711",
+                "direccion": "San Salvador, Calle ppal. 11",
+                "email": "juan@email.com"
+            },
+            {
+                "@id": "2",
+                "nombre": "Carlos",
+                "tel_fijo": "2222 2222",
+                "celular": "7722 7722",
+                "direccion": "San Miguel, Calle ppal. 22",
+                "email": "carlos@email.com"
+            },
+            {
+                "@id": "3",
+                "nombre": "María",
+                "tel_fijo": "2233 2233",
+                "celular": "7733 7733",
+                "direccion": "La Libertad, Calle ppal. 33",
+                "email": "maria@email.com"
+            }
+        ]
+    }
+}

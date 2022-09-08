@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+<ciclo>
+  <estudiante carnet="ML17017">
+    <nombre>Diana Carolina </nombre>
+    <apellidos>Meléndez López</apellidos>
+  </estudiante>
+  <materia codigo="TPI115">
+    <nombre>Técnicas de programacion para internet</nombre>
+    <teorico>Jueves de 8:00pm a 10:00pm</teorico>
+    <laboratorio>Martes de 8:00pm a 9:00pm</laboratorio>
+  </materia>
+  <materia codigo="IGF115">
+    <nombre>Ingenieria de Software</nombre>
+    <teorico>Martes y Viernes de 4:50pm a 6:30pm</teorico>
+    <laboratorio>Miercoles de 3:05pm a 4:45pm</laboratorio>
+  </materia>
+  <materia codigo="DSI215">
+    <nombre>Diseño de Sistemas</nombre>
+    <teorico> Lunes y Miercoles de 6:30pm a 8:15pm</teorico>
+    <laboratorio>Juevea de 6:30pm a 8:15pm</laboratorio>
+  </materia>
+  <materia codigo="ANF115">
+    <nombre>Analisis Financiero</nombre>
+    <teorico>Lunes y Miercoles de 9:50am a 11:30am</teorico>
+    <laboratorio>Jueves de 4:50pm a 6:30pm</laboratorio>
+  </materia>
+  <materia codigo="ARC115">
+    <nombre>Arquitectura de Computadoras</nombre>
+    <teorico>Lunes y Miercoles de 4:50pm a 6:30pm</teorico>
+    <laboratorio>Martes de 9:50am a 11:30am</laboratorio>
+  </materia>
+</ciclo>

@@ -1,0 +1,62 @@
+{
+  "agenda": {
+    "persona": [
+      {
+        "nombre": "Diana Meléndez",
+        "telefono": "2225-8915",
+        "celular": "7356-9985",
+        "direccion": "San salvador, San salvador",
+        "email": "ml17017@ues.edu.sv"
+      },
+      {
+        "nombre": "Wendy Cortez",
+        "telefono": "2265-2597",
+        "celular": "6039-5197",
+        "direccion": "San Salvador, San salvador",
+        "email": "ch14011@ues.edu.sv"
+      },
+      {
+        "nombre": "Krissia Meléndez",
+        "telefono": "2225-3544",
+        "celular": "7952-5819",
+        "direccion": "San Salvador, Soyapango",
+        "email": "ml2006@ues.edu.sv"
+      },
+      {
+        "nombre": "Karina Mejia",
+        "telefono": "2225-9374",
+        "celular": "7071-6521",
+        "direccion": "San Salvador, Soyapango",
+        "email": "ml17021@ues.edu.sv"
+      },
+      {
+        "nombre": "Carlos Anaya",
+        "telefono": "2256-5892",
+        "celular": "7589-9170",
+        "direccion": "San salvador, San Salvador",
+        "email": "am14017@ues.edu.sv"
+      },
+      {
+        "nombre": "Edwin Aguilar",
+        "telefono": "2225-9354",
+        "celular": "7998-9854",
+        "direccion": "San salvador, San salvador",
+        "email": "am20023@ues.edu.sv"
+      },
+      {
+        "nombre": "Josué Rivera",
+        "telefono": "2296-3047",
+        "celular": "7069-0124",
+        "direccion": "San salvador, Soyapango",
+        "email": "rm19002@ues.edu.sv"
+      },
+      {
+        "nombre": "Stanley Jimenez",
+        "telefono": "2296-9045",
+        "celular": "7002-9047",
+        "direccion": "San salvador, Soyapango",
+        "email": "jm17002@ues.edu.sv"
+      }
+    ]
+  }
+}

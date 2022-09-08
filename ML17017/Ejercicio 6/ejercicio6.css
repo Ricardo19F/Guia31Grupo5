@@ -1,0 +1,60 @@
+ciclo {
+    background-image: url(fondo.jpg);
+    margin-top: 50px;
+    margin-bottom: 75px;
+    margin-left:175px;
+    margin-right: 175px;
+}
+
+estudiante[carnet]::before{
+    content:attr(carnet);
+    color:#120907;
+    font-weight:bold;
+    font-size:0.5cm;
+    display:block;
+    background-color: #3c5aa3;
+    
+}
+estudiante{
+    color:white;
+    display:block;
+    font-size:25px;
+    text-align: center;
+    background-color: #3c5aa3;
+}
+
+
+materia[codigo]::before{
+    content:attr(codigo);
+    color:#222234;
+    font-weight:bold;
+    font-size:1cm;
+    display:block;
+    text-align: center;
+    background-color:#939efb;
+}
+nombre{
+    color: white;
+    display:block;
+    text-align: center;
+    font-size:25px;
+    border: #120907 solid 3px;
+    text-align: center;
+    background-color: #3c5aa3;
+}
+teorico{
+    color: white;
+    display:block;
+    border: #120907 solid 3px;
+    text-align: center;
+    font-size:25px;
+    background-color: #3c5aa3;
+}
+laboratorio{
+    color: white;
+    display:block;
+    border: #120907 solid 3px;
+    text-align: center;
+    font-size:25px;
+    background-color: #3c5aa3;
+}

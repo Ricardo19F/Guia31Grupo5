@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio5.xml" type="text/css"?>
+<agenda>
+  <contacto>
+    <nombre>Ricardo</nombre>
+    <apellido>Pérez</apellido>
+    <telefono tipo="fijo">1203-7194</telefono>
+    <telefono tipo="movil">9201-3782</telefono>
+    <direccion>
+      <calle>Calle España</calle>
+      <casa>#16</casa>
+      <colonia>Canton Santo Domingo</colonia>
+      <municipio>San Salvador</municipio>
+      <departamento>San Salvador</departamento>
+    </direccion>
+    <email>webmaster@admin.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Alfredo</nombre>
+    <apellido>Hernández</apellido>
+    <telefono tipo="fijo">1374-9497</telefono>
+    <telefono tipo="movil">8295-1613</telefono>
+    <direccion>
+      <calle>Calle al Congo</calle>
+      <casa>#910 G</casa>
+      <colonia>Residencial Sierra Verde</colonia>
+      <municipio>Santo Tomás</municipio>
+      <departamento>San Salvador</departamento>
+    </direccion>
+    <email>webmaster2@admin.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Luis</nombre>
+    <apellido>Pérez</apellido>
+    <telefono tipo="fijo">1724-7194</telefono>
+    <telefono tipo="movil">4931-9201</telefono>
+    <direccion>
+      <calle>Avenida Independencia</calle>
+      <casa>#172 P</casa>
+      <colonia>Barrio San José</colonia>
+      <municipio>Aguilares</municipio>
+      <departamento>San Salvador</departamento>
+    </direccion>
+    <email>webmaster3@admin.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Alonso</nombre>
+    <apellido>Ramírez</apellido>
+    <telefono tipo="fijo">1973-4587</telefono>
+    <telefono tipo="movil">9292-3782</telefono>
+    <direccion>
+      <calle>Senda México</calle>
+      <casa>#62</casa>
+      <colonia>Residencial Puerta del Alma</colonia>
+      <municipio>Antiguo Cuscatlán</municipio>
+      <departamento>La Libertad</departamento>
+    </direccion>
+    <email>webmaster4@admin.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Lisa</nombre>
+    <apellido>Stenway</apellido>
+    <telefono tipo="fijo">1346-7904</telefono>
+    <telefono tipo="movil">9834-5133</telefono>
+    <direccion>
+      <calle>Calle Quijano</calle>
+      <casa>#289 A</casa>
+      <colonia>Residencial Santa Elena</colonia>
+      <municipio>Antiguo Cuscatlán</municipio>
+      <departamento>La Libertad</departamento>
+    </direccion>
+    <email>webmaster5@admin.com</email>
+  </contacto>
+</agenda>

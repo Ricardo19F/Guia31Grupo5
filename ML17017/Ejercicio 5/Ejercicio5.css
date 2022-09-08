@@ -1,0 +1,64 @@
+
+agenda::before{  
+    content: "Mi Agenda"; 
+    color: #632a4b; 
+    font-size: 50px; 
+    border: 3px solid #632a4b;
+    background-color: #fe7572;
+    
+}
+agenda{
+    margin: auto; 
+    padding: 5px; 
+    text-align: center; 
+    background-color: #ffb083;
+}
+
+persona { 
+    display:inline-block; 
+    width: 200px;
+    height: 250px;
+    margin: 2rem;
+    border: 3px solid #632a4b;
+    border-radius: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    background-color:#b84e61 ;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+nombre[name]::before {content:attr(name)": ";
+    display: block; 
+    color: #ffb083; 
+    font-weight: bold; 
+}  
+
+telefono[name]::before {content:attr(name)": ";
+    display: block; 
+    color: #ffb083; 
+    font-weight: bold; 
+
+} 
+
+celular[name]::before {content:attr(name)": "; 
+    display: block;
+    color: #ffb083; 
+    font-weight: bold;
+ 
+} 
+
+direccion[name]::before {content:attr(name)": "; 
+    display: block;
+    color: #ffb083; 
+    font-weight: bold; 
+
+} 
+
+email[name]::before {content:attr(name)": "; 
+    display: block;
+    color: #ffb083; 
+    font-weight: bold; 
+
+} 

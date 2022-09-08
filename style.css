@@ -1,0 +1,181 @@
+* {
+  font-family: "Changa", sans-serif;
+}
+body {
+  background-image: url("img/stormtrooper.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+header {
+  font-variant: small-caps;
+  display: block;
+  background-color: #142530;
+  text-align: center;
+  color: whitesmoke;
+  font-size: 24pt;
+  font-weight: 700;
+  padding: 10px;
+}
+main {
+  /* background-color: aliceblue; */
+  /* height: 100px; */
+  margin-top: 120px;
+  margin-bottom: 120px;
+  text-align: center;
+}
+.main__contenedor--holograma {
+  /* background-color: violet; */
+  height: 100%;
+  width: 40.8%;
+  display: inline-block;
+  padding: 20px;
+  min-width: 500px;
+}
+.main__contenedor--opciones {
+  background-color: royalblue;
+  height: 100%;
+  width: 58.8%;
+  display: inline-block;
+  padding: 20px;
+}
+.holograma {
+  display: block;
+  position: relative;
+  text-align: center;
+}
+.holograma img {
+  width: 60%;
+}
+/* .holograma:hover > img {
+  rotate: 45deg;
+} */
+.holograma button {
+  position: absolute;
+  background-color: rgba(173, 216, 230, 0.781);
+  border: none;
+  padding: 10px;
+  width: 100px;
+  border-radius: 0 10% 0 10%;
+  box-shadow: 2px 2px 5px aliceblue;
+  transition: all 0.7s;
+}
+.holograma button:hover {
+  position: absolute;
+  background-color: rgba(71, 93, 100, 0.781);
+  border: none;
+  color: aliceblue;
+  box-shadow: -2px -2px 7px aliceblue;
+}
+#AD {
+  top: 0;
+  left: 25%;
+}
+#AR {
+  top: 23%;
+  left: 10%;
+}
+#CC {
+  top: 45%;
+  left: 5%;
+}
+#CM {
+  bottom: 23%;
+  left: 10%;
+}
+#CH {
+  bottom: 0;
+  left: 25%;
+}
+#MM {
+  top: 0;
+  right: 25%;
+}
+#ML {
+  top: 23%;
+  right: 10%;
+}
+#MA {
+  bottom: 45%;
+  right: 5%;
+}
+#PO {
+  bottom: 23%;
+  right: 10%;
+}
+#PH {
+  bottom: 0;
+  right: 25%;
+}
+footer {
+  background-color: #142530;
+  color: white;
+  padding: 50px;
+}
+.footer__contenedor {
+  flex-wrap: wrap;
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: space-evenly;
+}
+.footer__contenedor--izq {
+  padding: 10px 0;
+  /* width: 50%; */
+  /* background-color: tomato; */
+  /* padding-left: 350px; */
+}
+.footer__contenedor--der {
+  padding: 10px 0;
+  /* width: 50%; */
+  /* background-color: greenyellow; */
+  text-align: end;
+  /* padding-right: 350px; */
+}
+.footer__info {
+  text-align: center;
+}
+@keyframes unlock {
+  0% {
+    /* rotate: 0; */
+  }
+  25% {
+    rotate: 170deg;
+  }
+  50% {
+    rotate: -100deg;
+  }
+  75% {
+    rotate: 200deg;
+    filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(308deg) brightness(88%) contrast(101%);
+  }
+  100% {
+    /* filter: invert(61%) sepia(30%) saturate(680%) hue-rotate(161deg) brightness(90%) contrast(94%); */
+    /* filter: invert(47%) sepia(40%) saturate(7418%) hue-rotate(96deg) brightness(98%) contrast(103%); */
+    /* filter: invert(44%) sepia(99%) saturate(5303%) hue-rotate(94deg) brightness(70%) contrast(103%); */
+    filter: invert(34%) sepia(98%) saturate(603%) hue-rotate(115deg) brightness(91%) contrast(101%);
+  }
+}
+.open {
+  animation-duration: 4s;
+  animation-fill-mode: both;
+  border-radius: 50%;
+  animation-name: unlock;
+}
+/* .header__banner h1 {
+  position: relative;
+  margin: 0;
+  padding: 15px 0;
+} */
+/*
+main {
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 0;
+  display: block;
+}
+footer {
+  background-color: #470011;
+  height: 100px;
+  color: antiquewhite;
+  text-align: center;
+  padding: 50px;
+} */

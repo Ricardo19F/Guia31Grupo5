@@ -1,0 +1,79 @@
+* {
+    font-family: 'JetBrains Mono', Courier, monospace;
+}
+
+materias_ciclo {
+    background-color: maroon;
+    color: white;
+}
+
+estudiante {
+    background-color: #212121;
+    padding: 1.5rem 4rem 3rem 2rem;
+    
+    margin: 1rem;
+    border-radius: .5rem;
+    
+    display: grid;
+    box-shadow: 0px 5px 10px #3335;
+}
+
+nombres::before {
+    content: "NOMBRES: ";
+}
+
+apellidos::before {
+    content: "APELLIDOS: ";
+}
+
+carnet::before {
+    content: "CARNET: ";
+}
+
+lista_materias {
+    margin-top: 1rem;
+}
+
+lista_materias::before {
+    content: "MATERIAS INSCRITAS: ";
+    padding-left: 2rem;
+}
+
+materia {
+    display: grid;
+
+    background-color: maroon;
+    background-color: firebrick;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+
+    box-shadow: 0px 5px 10px #3335;
+}
+
+materia:first-child {
+    margin-top: 0.5rem;
+}
+
+codigo::before {
+    content: "CÓDIGO : ";
+}
+
+nombre::before {
+    content: "MATERIA: ";
+}
+
+gt::before {
+    content: "GRUPO TEÓ: ";
+}
+
+horario::before {
+    content: "HORA: ";
+    padding-left: 3rem;
+}
+
+gl::before {
+    content: "GRUPO LAB: ";
+}

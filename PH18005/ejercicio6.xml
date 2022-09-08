@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio6.css" type="text/css"?>
+<cargaestudio nombres="Ricardo Alfredo" apellidos="Pérez Hernández" carnet="PH18005">
+  <materia codigo="ACC-115" nombre="Administración de Centros de Computo">
+    <teorico horario="L, X 4:50-6.30">GT 1</teorico>
+    <laboratorio horario="J 4:50-6.30">GL 1</laboratorio>
+  </materia>
+  <materia codigo="API-115" nombre="Administración de Proyectos Informáticos">
+    <teorico horario="X, S 6.35-8.15">GT 1</teorico>
+    <laboratorio horario="S 8:05-9.45">GL 2</laboratorio>
+  </materia>
+  <materia codigo="CPR-115" nombre="Consultoría Profesional">
+    <teorico horario="M, V 4:50-6.30">GT 1</teorico>
+    <laboratorio horario="S 11.35-1.15">GL 3</laboratorio>
+  </materia>
+  <materia codigo="TPI-115" nombre="Técnicas de Programacion para Internet">
+    <teorico horario="M, V 8:05-9:45">GT 1</teorico>
+    <laboratorio horario="L 1:20-3:00">GL 1</laboratorio>
+  </materia>
+</cargaestudio>

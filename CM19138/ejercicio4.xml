@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio4.css"?>
+<!-- Ejercicio04.xml  CM19138 -->
+<temperaturas>
+
+  <region id="1" nombre="Oriental">
+    <dia id="1" nombre="lun">
+      <minima>21 °C</minima>
+      <promed>29 °C</promed>
+      <maxima>39 °C</maxima>
+    </dia>
+    <dia id="2" nombre="mar">
+      <minima>20 °C</minima>
+      <promed>29 °C</promed>
+      <maxima>38 °C</maxima>
+    </dia>
+    <dia id="3" nombre="mie">
+      <minima>20 °C</minima>
+      <promed>28 °C</promed>
+      <maxima>38 °C</maxima>
+    </dia>
+    <dia id="4" nombre="jue">
+      <minima>20 °C</minima>
+      <promed>28 °C</promed>
+      <maxima>37 °C</maxima>
+    </dia>
+    <dia id="5" nombre="vie">
+      <minima>21 °C</minima>
+      <promed>31 °C</promed>
+      <maxima>39 °C</maxima>
+    </dia>
+    <dia id="6" nombre="sab">
+      <minima>19 °C</minima>
+      <promed>27 °C</promed>
+      <maxima>38 °C</maxima>
+    </dia>
+    <dia id="7" nombre="dom">
+      <minima>22 °C</minima>
+      <promed>29 °C</promed>
+      <maxima>39 °C</maxima>
+    </dia>
+  </region>
+
+  <region id="2" nombre="Central">
+    <dia id="1" nombre="lun">
+      <minima>19 °C</minima>
+      <promed>27 °C</promed>
+      <maxima>36 °C</maxima>
+    </dia>
+    <dia id="2" nombre="mar">
+      <minima>18 °C</minima>
+      <promed>26 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="3" nombre="mie">
+      <minima>18 °C</minima>
+      <promed>25 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="4" nombre="jue">
+      <minima>18 °C</minima>
+      <promed>26 °C</promed>
+      <maxima>36 °C</maxima>
+    </dia>
+    <dia id="5" nombre="vie">
+      <minima>19 °C</minima>
+      <promed>27 °C</promed>
+      <maxima>36 °C</maxima>
+    </dia>
+    <dia id="6" nombre="sab">
+      <minima>18 °C</minima>
+      <promed>24 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="7" nombre="dom">
+      <minima>19 °C</minima>
+      <promed>25 °C</promed>
+      <maxima>36 °C</maxima>
+    </dia>
+  </region>
+
+  <region id="3" nombre="Occidental">
+    <dia id="1" nombre="lun">
+      <minima>18 °C</minima>
+      <promed>27 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="2" nombre="mar">
+      <minima>18 °C</minima>
+      <promed>24 °C</promed>
+      <maxima>34 °C</maxima>
+    </dia>
+    <dia id="3" nombre="mie">
+      <minima>17 °C</minima>
+      <promed>25 °C</promed>
+      <maxima>34 °C</maxima>
+    </dia>
+    <dia id="4" nombre="jue">
+      <minima>17 °C</minima>
+      <promed>25 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="5" nombre="vie">
+      <minima>18 °C</minima>
+      <promed>26 °C</promed>
+      <maxima>35 °C</maxima>
+    </dia>
+    <dia id="6" nombre="sab">
+      <minima>17 °C</minima>
+      <promed>24 °C</promed>
+      <maxima>34 °C</maxima>
+    </dia>
+    <dia id="7" nombre="dom">
+      <minima>16 °C</minima>
+      <promed>23 °C</promed>
+      <maxima>33 °C</maxima>
+    </dia>
+  </region>
+
+</temperaturas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio6.css"?>
+
+<datos>
+  <estudiante>
+    <nombres>Teobaldo Antonio</nombres>
+    <apellidos>Azahar Roldán</apellidos>
+    <carnet>AR15068</carnet>
+    <subtitulo>MATERIAS</subtitulo>
+  </estudiante>
+  <materias>
+    <nombrem>Técnicas de programación para internet</nombrem>
+    <codigo>TPI-115</codigo>
+    <teorico>Jueves 8:00 P.M.</teorico>
+    <laboratorio>Lunes 8:P.M,</laboratorio>
+  </materias>
+  <materias>
+    <nombrem>Comunicaciones</nombrem>
+    <codigo>COS-115</codigo>
+    <teorico>Lunes y Miércoles 6:20 A.M.</teorico>
+    <laboratorio>Martes 9:00 P.M,</laboratorio>
+  </materias>
+  <materias>
+    <nombrem>Sistemas Operativos</nombrem>
+    <codigo>SIO-115</codigo>
+    <teorico>Martes y Viernes 6:35 P.M.</teorico>
+    <laboratorio>Sábado 8:20P.M,</laboratorio>
+  </materias>
+</datos>

@@ -1,0 +1,35 @@
+{
+	"datos":{
+		"titulo":"CONTACTOS",
+		"contacto":[
+			{
+				"nombre":"Carlos Pérez",
+				"telefono":"2268-4831",
+				"celular":"7854-1533",
+				"direccion":"Colonia San Francisco, #258",
+				"email":"carlos.perez@gmail.com"
+			},
+			{
+				"nombre":"Marta Gonzáles",
+				"telefono":"2200-7524",
+				"celular":"7026-1379",
+				"direccion":"Colonia Miralvalle, #84",
+				"email":"marta.gonzalez@gmail.com"
+			},
+			{
+				"nombre":"Enrique Guzmán",
+				"telefono":"2296-1030",
+				"celular":"7623-1741",
+				"direccion":"Residencial la gloria, #754",
+				"email":"enrique.guzman@gmail.com"
+			},
+			{
+				"nombre":"Paola Mendoza",
+				"telefono":"2260-8962",
+				"celular":"6823-7005",
+				"direccion":"Colonia Montserrat, #345",
+				"email":"paola.mendoza@gmail.com"
+			}
+		]
+	}
+}

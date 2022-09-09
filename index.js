@@ -3,6 +3,8 @@
 //       $("img").addClass("open");
 //     });
 //   });
+var entrance = new Audio("audio/entrance.mp3");
+var outro = new Audio("audio/outro.mp3");
 document.getElementsByClassName("main__contenedor--opciones")[0].style.display = "none";
 const map1 = new Map();
 map1.set("AD17006", "Alvarez Dominguez, Cristian Rodolfo");
@@ -27,6 +29,7 @@ for (let index = 0; index < array1.length; index++) {
   array1.item(index).addEventListener("click", showLinks);
 }
 function showLinks(e) {
+  entrance.play();
   for (let index = 0; index < array1.length; index++) {
     array1.item(index).disabled = true;
   }
@@ -49,9 +52,10 @@ function showLinks(e) {
     document.getElementsByClassName("main__contenedor--opciones")[0].removeAttribute("style");
     document.getElementsByClassName("main__contenedor--opciones")[0].classList.add("show-modal");
     // document.getElementsByClassName("main__contenedor--opciones")[0].style.display = "block";
-  }, 4000);
+  }, 3500);
 }
 function closeModal() {
+  outro.play();
   document.getElementsByClassName("main__contenedor--opciones")[0].style.display = "none";
   for (let index = 0; index < array1.length; index++) {
     array1.item(index).disabled = false;

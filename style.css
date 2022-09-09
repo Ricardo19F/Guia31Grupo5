@@ -166,14 +166,14 @@ footer {
   }
 }
 .open {
-  animation: unlock 3s 1s both;
+  animation: unlock 3s 0.1s both;
   /* animation-duration: 4s; */
   /* animation-fill-mode: both; */
   border-radius: 50%;
   /* animation-name: unlock; */
 }
 .close {
-  animation: unlock 3s 1s reverse both;
+  animation: unlock 2s 0.1s reverse both;
 }
 .show-modal {
   animation: showing 1s both;

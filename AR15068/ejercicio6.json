@@ -1,0 +1,30 @@
+{
+	"datos":{
+		"estudiante":{
+			"nombres":"Teobaldo Antonio",
+			"apellidos":"Azahar Roldán",
+			"carnet":"AR15068",
+			"subtitulo":"MATERIAS"
+		},
+		"materias":[
+			{
+				"nombrem":"Técnicas de programación para internet",
+				"codigo":"TPI-115",
+				"teorico":"Jueves 8:00 P.M.",
+				"laboratorio":"Lunes 8:P.M,"
+			},
+			{
+				"nombrem":"Comunicaciones",
+				"codigo":"COS-115",
+				"teorico":"Lunes y Miércoles 6:20 A.M.",
+				"laboratorio":"Martes 9:00 P.M,"
+			},
+			{
+				"nombrem":"Sistemas Operativos",
+				"codigo":"SIO-115",
+				"teorico":"Martes y Viernes 6:35 P.M.",
+				"laboratorio":"Sábado 8:20P.M,"
+			}
+		]
+	}
+}

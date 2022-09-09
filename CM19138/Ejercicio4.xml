@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="ejercicio04.css"?>
+<?xml-stylesheet type="text/css" href="ejercicio4.css"?>
 <!-- Ejercicio04.xml  CM19138 -->
 <temperaturas>
 
@@ -40,7 +40,7 @@
       <maxima>39 °C</maxima>
     </dia>
   </region>
-  
+
   <region id="2" nombre="Central">
     <dia id="1" nombre="lun">
       <minima>19 °C</minima>
@@ -78,7 +78,7 @@
       <maxima>36 °C</maxima>
     </dia>
   </region>
-  
+
   <region id="3" nombre="Occidental">
     <dia id="1" nombre="lun">
       <minima>18 °C</minima>
@@ -116,5 +116,5 @@
       <maxima>33 °C</maxima>
     </dia>
   </region>
-  
+
 </temperaturas>

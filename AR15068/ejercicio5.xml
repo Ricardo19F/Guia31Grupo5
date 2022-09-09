@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio5.css"?>
+
+<datos>
+  <titulo>CONTACTOS</titulo>
+  <contacto>
+    <nombre>Carlos Pérez</nombre>
+    <telefono>2268-4831</telefono>
+    <celular>7854-1533</celular>
+    <direccion>Colonia San Francisco, #258</direccion>
+    <email>carlos.perez@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Marta Gonzáles</nombre>
+    <telefono>2200-7524</telefono>
+    <celular>7026-1379</celular>
+    <direccion>Colonia Miralvalle, #84</direccion>
+    <email>marta.gonzalez@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Enrique Guzmán</nombre>
+    <telefono>2296-1030</telefono>
+    <celular>7623-1741</celular>
+    <direccion>Residencial la gloria, #754</direccion>
+    <email>enrique.guzman@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Paola Mendoza</nombre>
+    <telefono>2260-8962</telefono>
+    <celular>6823-7005</celular>
+    <direccion>Colonia Montserrat, #345</direccion>
+    <email>paola.mendoza@gmail.com</email>
+  </contacto>
+</datos>

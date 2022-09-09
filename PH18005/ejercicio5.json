@@ -1,0 +1,116 @@
+{
+  "agenda": {
+    "contacto": [
+      {
+        "nombre": "Ricardo",
+        "apellido": "Pérez",
+        "telefono": [
+          {
+            "@tipo": "fijo",
+            "#text": "1203-7194"
+          },
+          {
+            "@tipo": "movil",
+            "#text": "9201-3782"
+          }
+        ],
+        "direccion": {
+          "calle": "Calle España",
+          "casa": "#16",
+          "colonia": "Canton Santo Domingo",
+          "municipio": "San Salvador",
+          "departamento": "San Salvador"
+        },
+        "email": "webmaster@admin.com"
+      },
+      {
+        "nombre": "Alfredo",
+        "apellido": "Hernández",
+        "telefono": [
+          {
+            "@tipo": "fijo",
+            "#text": "1374-9497"
+          },
+          {
+            "@tipo": "movil",
+            "#text": "8295-1613"
+          }
+        ],
+        "direccion": {
+          "calle": "Calle al Congo",
+          "casa": "#910 G",
+          "colonia": "Residencial Sierra Verde",
+          "municipio": "Santo Tomás",
+          "departamento": "San Salvador"
+        },
+        "email": "webmaster2@admin.com"
+      },
+      {
+        "nombre": "Luis",
+        "apellido": "Pérez",
+        "telefono": [
+          {
+            "@tipo": "fijo",
+            "#text": "1724-7194"
+          },
+          {
+            "@tipo": "movil",
+            "#text": "4931-9201"
+          }
+        ],
+        "direccion": {
+          "calle": "Avenida Independencia",
+          "casa": "#172 P",
+          "colonia": "Barrio San José",
+          "municipio": "Aguilares",
+          "departamento": "San Salvador"
+        },
+        "email": "webmaster3@admin.com"
+      },
+      {
+        "nombre": "Alonso",
+        "apellido": "Ramírez",
+        "telefono": [
+          {
+            "@tipo": "fijo",
+            "#text": "1973-4587"
+          },
+          {
+            "@tipo": "movil",
+            "#text": "9292-3782"
+          }
+        ],
+        "direccion": {
+          "calle": "Senda México",
+          "casa": "#62",
+          "colonia": "Residencial Puerta del Alma",
+          "municipio": "Antiguo Cuscatlán",
+          "departamento": "La Libertad"
+        },
+        "email": "webmaster4@admin.com"
+      },
+      {
+        "nombre": "Lisa",
+        "apellido": "Stenway",
+        "telefono": [
+          {
+            "@tipo": "fijo",
+            "#text": "1346-7904"
+          },
+          {
+            "@tipo": "movil",
+            "#text": "9834-5133"
+          }
+        ],
+        "direccion": {
+          "calle": "Calle Quijano",
+          "casa": "#289 A",
+          "colonia": "Residencial Santa Elena",
+          "municipio": "Antiguo Cuscatlán",
+          "departamento": "La Libertad"
+        },
+        "email": "webmaster5@admin.com"
+      }
+    ]
+  }
+}

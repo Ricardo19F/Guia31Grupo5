@@ -1,0 +1,128 @@
+cargaestudio {
+  background-image: url("fondo3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  /* align-content: flex-start; */
+
+  /* flex-direction: column; */
+  font-family: "Segoe UI", Verdana, Geneva, Tahoma, sans-serif;
+  /* align-items: baseline; */
+  align-content: center;
+  /* align-items: ; */
+}
+cargaestudio::before {
+  content: "Carga académica ══ " attr(nombres) "  " attr(apellidos) " ▬ " attr(carnet);
+  color: black;
+  background-color: rgba(190, 151, 240, 0.8);
+  padding: 100px 50px;
+  font-size: 26pt;
+  font-weight: 900;
+  font-variant: small-caps;
+  width: 100%;
+}
+materia {
+  background-color: rgba(92, 62, 131, 0.7);
+  width: 500px;
+  padding: 70px 50px 50px;
+  color: white;
+  flex-grow: 1;
+  border-bottom: 1px dashed white;
+}
+materia::before {
+  content: " █ " attr(codigo) " ■ " attr(nombre);
+  font-weight: 600;
+  display: block;
+}
+teorico,
+laboratorio {
+  margin-top: 10px;
+  display: block;
+  padding-left: 30px;
+  /* padding: 20px; */
+}
+teorico {
+  background-color: rgb(94, 56, 129);
+}
+teorico::after {
+  background-color: rgb(78, 156, 119);
+  padding: 20px 30px;
+  margin-left: 20px;
+  width: 75%;
+  display: inline-block;
+  content: attr(horario);
+}
+laboratorio {
+  background-color: rgb(110, 129, 56);
+}
+laboratorio::after {
+  background-color: rgb(156, 148, 78);
+  padding: 20px 30px;
+  margin-left: 20px;
+  width: 70%;
+  display: inline-block;
+  content: attr(horario);
+}
+
+@media only screen and (max-width: 1220px) {
+  cargaestudio {
+    align-content: flex-start;
+  }
+}
+@media only screen and (max-width: 600px) {
+  laboratorio::after {
+    width: 50%;
+  }
+  teorico::after {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 380px) {
+  laboratorio::after {
+    padding: 20px 10px;
+    margin-left: 20px;
+    width: 50%;
+  }
+  teorico::after {
+    padding: 20px 10px;
+    margin-left: 20px;
+    width: 50%;
+  }
+  materia {
+    padding: 70px 0;
+  }
+  materia::before {
+    padding-left: 10px;
+  }
+}
+@media only screen and (max-width: 260px) {
+  cargaestudio::before {
+    padding-left: 10px;
+  }
+  laboratorio::after {
+    padding: 20px 5px;
+    margin-left: 10px;
+    width: 60%;
+  }
+  teorico::after {
+    padding: 20px 5px;
+    margin-left: 10px;
+    width: 60%;
+  }
+  laboratorio {
+    padding-left: 0;
+  }
+  teorico {
+    padding-left: 0;
+  }
+  materia {
+    padding: 70px 0;
+  }
+  materia::before {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,13 @@
+agenda {
+    background-color:lightseagreen;
+    white-space: pre;
+    color:darkred;
+}
+agenda contacto::before{
+    content: " - ID: "attr(id)" - ";
+}
+agenda contacto::after{
+    content: "\A Telefono de casa: "attr(telefono)" - Celular: "attr(celular)
+    "\A Direccion: "attr(direccion)" - Correo electronico: "attr(email);
+    color: black;
+}

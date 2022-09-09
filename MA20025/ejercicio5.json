@@ -1,0 +1,35 @@
+{
+	"datos":{
+		"titulo":"CONTACTOS",
+		"contacto":[
+			{
+				"nombre":"Luis Moran",
+				"telefono":"2248-4451",
+				"celular":"7834-5555",
+				"direccion":"Colonia Roma, #284",
+				"email":"Moran788@gmail.com"
+			},
+			{
+				"nombre":"Maria Lopez",
+				"telefono":"2250-4534",
+				"celular":"7636-1989",
+				"direccion":"Colonia Gloria, #241",
+				"email":"Ma245@gmail.com"
+			},
+			{
+				"nombre":"Carlos Enriquez",
+				"telefono":"2216-1550",
+				"celular":"7683-4531",
+				"direccion":"Residencial Montes 4, #455",
+				"email":"Cenrique134@gmail.com"
+			},
+			{
+				"nombre":"Pablo Medina",
+				"telefono":"2260-9674",
+				"celular":"7853-5005",
+				"direccion":"Colonia Valle, #111",
+				"email":"PMedina1324@gmail.com"
+			}
+		]
+	}
+}

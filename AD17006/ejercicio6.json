@@ -1,0 +1,57 @@
+{
+	"estudiante":{
+		"@apellido":"Alfaro Dimas",
+		"@nombre":"Crisanto Roque",
+		"@carnet":"AD17007",
+		"listado":{"materia":[
+				{
+					"@codigo":"MAT415",
+					"@nombre":"Matematica IV",
+					"horario-teorico":{
+						"@id":"1",
+						"@dias":"L_X",
+						"@hora":"8:00am-9:45am",
+						"#text":"Lunes y miercoles"
+					},
+					"horario-lab":{
+						"@id":"1",
+						"@dia":"L",
+						"@hora":"9:50am-11:30am",
+						"#text":"Lunes"
+					}
+				},
+				{
+					"@codigo":"TPI115",
+					"@nombre":"Tecnicas de programacion para internet",
+					"horario-teorico":{
+						"@id":"1",
+						"@dias":"J",
+						"@hora":"8:00pm-9:45pm",
+						"#text":"Jueves"
+					},
+					"horario-lab":{
+						"@id":"3",
+						"@dia":"X",
+						"@hora":"8:00pm-9:00pm",
+						"#text":"Miercoles"
+					}
+				},
+				{
+					"@codigo":"TSI115",
+					"@nombre":"Teoria de sistemas",
+					"horario-teorico":{
+						"@id":"1",
+						"@dias":"L_X",
+						"@hora":"11:30am-1:15pm",
+						"#text":"Lunes y miercoles"
+					},
+					"horario-lab":{
+						"@id":"1",
+						"@dia":"L",
+						"@hora":"11:30am-1:15pm",
+						"#text":"Lunes"
+					}
+				}
+			]}
+	}
+}

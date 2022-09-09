@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio5.css" ?>
+<!-- ejercicio4.xml  AD17006 -->
+<!--) para representar una agenda de contactos personales (nombre, teléfono fijo, celular, dirección, email, etc.)-->
+<agenda>
+<contacto id="1" telefono="23232323" celular="70707070" direccion="Calle Z" email="zzz@zz.com">Alfaro, Luque</contacto>
+<contacto id="2" telefono="22222222" celular="60606060" direccion="Calle A" email="aaa@zz.com">Alves, Carlos</contacto>
+<contacto id="3" telefono="22121212" celular="67676767" direccion="Calle O" email="ttt@zz.com">Maldonado, Willie</contacto>
+<contacto id="4" telefono="22424123" celular="68686868" direccion="Calle S" email="eee@zz.com">Toretto, Dominic</contacto>
+</agenda>

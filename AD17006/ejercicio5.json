@@ -1,0 +1,36 @@
+{
+	"agenda":{"contacto":[
+			{
+				"@id":"1",
+				"@telefono":"23232323",
+				"@celular":"70707070",
+				"@direccion":"Calle Z",
+				"@email":"zzz@zz.com",
+				"#text":"Alfaro, Luque"
+			},
+			{
+				"@id":"2",
+				"@telefono":"22222222",
+				"@celular":"60606060",
+				"@direccion":"Calle A",
+				"@email":"aaa@zz.com",
+				"#text":"Alves, Carlos"
+			},
+			{
+				"@id":"3",
+				"@telefono":"22121212",
+				"@celular":"67676767",
+				"@direccion":"Calle O",
+				"@email":"ttt@zz.com",
+				"#text":"Maldonado, Willie"
+			},
+			{
+				"@id":"4",
+				"@telefono":"22424123",
+				"@celular":"68686868",
+				"@direccion":"Calle S",
+				"@email":"eee@zz.com",
+				"#text":"Toretto, Dominic"
+			}
+		]}
+}

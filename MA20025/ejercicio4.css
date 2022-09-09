@@ -1,0 +1,25 @@
+
+
+datos{
+	display: table;
+	border-spacing: 3px;
+	border: rgb(255, 123, 0) 4px solid;
+	margin:auto;
+}
+
+titulo{
+	font-size: 18px;
+    	text-transform: uppercase;
+    	text-decoration: underline;
+    	letter-spacing: 4px;
+    	color: rgb(89, 0, 255);
+		text-align: initial;
+}
+
+dia, zona, maxima, media, minima {
+	display: table-row;
+	background-color: #c1fb9dda;
+	color: blue;
+	padding: 4px;
+	text-align: center;
+}

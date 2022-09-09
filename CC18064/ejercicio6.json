@@ -1,0 +1,30 @@
+{
+	"ciclo":{
+		"@id":"1",
+		"estudiante":{
+			"nombre":"Sophia Michelle",
+			"apellido":"Cárcamo López",
+			"carnet":"CL19605"
+		},
+		"materia":[
+			{
+				"@codigo":"FIR215",
+				"nombre":"Física II",
+				"teorico":"Lunes y Miércoles: 11:35am - 1:15pm",
+				"laboratorio":"Miércoles: 9:50am - 11:30am"
+			},
+			{
+				"@codigo":"MAT315",
+				"nombre":"Matemática III",
+				"teorico":"Martes y Viernes: 8:05am - 9:45am",
+				"laboratorio":"Lunes: 9:50am - 11:30am"
+			},
+			{
+				"@codigo":"PYE115",
+				"nombre":"Probabilidad y Estadística",
+				"teorico":"Lunes y Miércoles: 6:20am - 8:00am",
+				"laboratorio":"Viernes: 1:20am - 3:00pm"
+			}
+		]
+	}
+}

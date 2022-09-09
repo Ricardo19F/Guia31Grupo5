@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+<ciclo>
+  <estudiante carnet="CH11049">
+    <nombre>wendy xiomara </nombre>
+    <apellidos>Cortez Hernandez</apellidos>
+  </estudiante>
+  <materia codigo="TPI115">
+    <nombre>Técnicas de Programacion para Internet</nombre>
+    <teorico>Jueves de 8:00pm a 10:00pm</teorico>
+    <laboratorio>Martes de 8:00pm a 9:00pm</laboratorio>
+  </materia>
+  <materia codigo="TSI115">
+    <nombre>Teoria de Sistemas</nombre>
+    <teorico>Martes y Viernes de 11:35am a 1:15pm</teorico>
+    <Discusion>Miercoles de 3:05pm a 4:45pm</Discusion>
+  </materia>
+  <materia codigo="TOO115">
+    <nombre>Tecnologia Orientada a Objetos</nombre>
+    <teorico> Lunes y Miercoles de 9:50am a 11:30am</teorico>
+    <laboratorio>Jueves de 5:00pm a 6:30pm</laboratorio>
+  </materia>
+  <materia codigo="Fir315">
+    <nombre>Fisica 3</nombre>
+    <teorico>Lunes y Miercoles de 8:05am a 9:45am</teorico>
+    <Discusion>Martes de 1:20pm a 3:00pm</Discusion>
+    <laboratorio>Lunes de 11:35pm a 1:15pm</laboratorio>
+  </materia>
+</ciclo>

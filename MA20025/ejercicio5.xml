@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio5.css"?>
+
+<datos>
+  <titulo>CONTACTOS</titulo>
+  <contacto>
+    <nombre>Luis Moran</nombre>
+    <telefono>2248-4451</telefono>
+    <celular>7834-5555</celular>
+    <direccion>Colonia Roma, #284</direccion>
+    <email>Moran788@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Maria Lopez</nombre>
+    <telefono>2250-4534</telefono>
+    <celular>7636-1989</celular>
+    <direccion>Colonia Gloria, #241</direccion>
+    <email>Ma245@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Carlos Enriquez</nombre>
+    <telefono>2216-1550</telefono>
+    <celular>7683-4531</celular>
+    <direccion>Residencial Montes 4, #455</direccion>
+    <email>Cenrique134@gmail.com</email>
+  </contacto>
+  <contacto>
+    <nombre>Pablo Medina</nombre>
+    <telefono>2260-9674</telefono>
+    <celular>7853-5005</celular>
+    <direccion>Colonia Valle, #111</direccion>
+    <email>PMedina1324@gmail.com</email>
+  </contacto>
+</datos>

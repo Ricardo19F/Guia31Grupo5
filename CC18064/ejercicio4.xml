@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- ejercicio4.xml  CC18064-->
+<?xml-stylesheet type="text/css" href="ejercicio4.css"?>
+
+<registro>
+    <region id="1" nombre="Oriental">
+    <dia id="1" nombre="Lunes">
+        <temperatura>
+            <minima>20°C</minima> |
+            <promedio>28°C</promedio> |
+            <maxima>36°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="2" nombre="Martes">
+        <temperatura>
+            <minima>23°C</minima> |
+            <promedio>31°C</promedio> |
+            <maxima>39°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="3" nombre="Miércoles">
+        <temperatura>
+            <minima>24°C</minima> |
+            <promedio>32°C</promedio> |
+            <maxima>40°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="4" nombre="Jueves">
+        <temperatura>
+            <minima>25°C</minima> |
+            <promedio>32°C</promedio> |
+            <maxima>40°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="5" nombre="Viernes">
+        <temperatura>
+            <minima>26°C</minima> |
+            <promedio>33°C</promedio> |
+            <maxima>41°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="6" nombre="Sábado">
+        <temperatura>
+            <minima>27°C</minima> |
+            <promedio>32°C</promedio> |
+            <maxima>38°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="7" nombre="Domingo">
+        <temperatura>
+            <minima>28°C</minima> |
+            <promedio>34°C</promedio> |
+            <maxima>41°C</maxima>
+        </temperatura>
+    </dia>
+    </region>
+
+    <region id="2" nombre="Occidental">
+    <dia id="1" nombre="Lunes">
+        <temperatura>
+            <minima>19°C</minima> |
+            <promedio>24°C</promedio> |
+            <maxima>30°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="2" nombre="Martes">
+        <temperatura>
+            <minima>20°C</minima> |
+            <promedio>25°C</promedio> |
+            <maxima>31°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="3" nombre="Miércoles">
+        <temperatura>
+            <minima>21°C</minima> |
+            <promedio>26°C</promedio> |
+            <maxima>32°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="4" nombre="Jueves">
+        <temperatura>
+            <minima>22°C</minima> |
+            <promedio>27°C</promedio> |
+            <maxima>33°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="5" nombre="Viernes">
+        <temperatura>
+            <minima>23°C</minima> |
+            <promedio>28°C</promedio> |
+            <maxima>34°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="6" nombre="Sábado">
+        <temperatura>
+            <minima>24°C</minima> |
+            <promedio>29°C</promedio> |
+            <maxima>35°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="7" nombre="Domingo">
+        <temperatura>
+            <minima>25°C</minima> |
+            <promedio>30°C</promedio> |
+            <maxima>36°C</maxima>
+        </temperatura>
+    </dia>
+    </region>
+    
+    <region id="3" nombre="Central">
+    <dia id="1" nombre="Lunes">
+        <temperatura>
+            <minima>17°C</minima> | 
+            <promedio>22°C</promedio> |
+            <maxima>28°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="2" nombre="Martes">
+        <temperatura>
+            <minima>18°C</minima> |
+            <promedio>23°C</promedio> |
+            <maxima>29°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="3" nombre="Miércoles">
+        <temperatura>
+            <minima>19°C</minima> |
+            <promedio>24°C</promedio> |
+            <maxima>30°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="4" nombre="Jueves">
+        <temperatura>
+            <minima>20°C</minima> |
+            <promedio>25°C</promedio> |
+            <maxima>31°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="5" nombre="Viernes">
+        <temperatura>
+            <minima>21°C</minima> |
+            <promedio>26°C</promedio> |
+            <maxima>32°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="6" nombre="Sábado">
+        <temperatura>
+            <minima>22°C</minima> |
+            <promedio>27°C</promedio> |
+            <maxima>33°C</maxima>
+        </temperatura>
+    </dia>
+    <dia id="7" nombre="Domingo">
+        <temperatura>
+            <minima>23°C</minima> |
+            <promedio>28°C</promedio> |
+            <maxima>34°C</maxima>
+        </temperatura>
+    </dia>
+    </region>
+</registro>

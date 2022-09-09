@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio6.css" ?>
+<!-- ejercicio6.xml  AD17006 -->
+<!--Cree un documento xml bien formado, para representar las materias que se llevan en un ciclo para un estudiante.
+El documento contendrá, nombres y apellidos, carnet, listado de materias con su código y nombre, para cada materia 
+el horario de clase teórica y laboratorio en el cual se inscribió el estudiante.  ***3 materias son suficientes para el ejercicio.-->
+<estudiante apellido="Alfaro Dimas" nombre="Crisanto Roque" carnet="AD17007">
+<listado num="1">
+
+<materia codigo="MAT415" nombre="Matematica IV">
+<horario-teorico id="1" dias="L_X" hora="8:00am-9:45am">Lunes y miercoles</horario-teorico>
+<horario-lab id="1" dia="L" hora="9:50am-11:30am">Lunes</horario-lab>
+</materia>
+<materia codigo="TPI115" nombre="Tecnicas de programacion para internet">
+<horario-teorico id="1" dias="J" hora="8:00pm-9:45pm">Jueves</horario-teorico>
+<horario-lab id="3" dia="X" hora="8:00pm-9:00pm">Miercoles</horario-lab>
+</materia>
+<materia codigo="TSI115" nombre="Teoria de sistemas">
+<horario-teorico id="1" dias="L_X" hora="11:30am-1:15pm">Lunes y miercoles</horario-teorico>
+<horario-lab id="1" dia="L" hora="11:30am-1:15pm">Lunes</horario-lab>
+</materia>
+</listado>
+</estudiante>

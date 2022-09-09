@@ -1,0 +1,64 @@
+
+agenda::before{  
+    content: "Agenda Personal"; 
+    color: rgb(101, 7, 82); 
+    font-size: 50px; 
+    border: 3px solid #180206;
+    background-color: rgb(67, 120, 138);
+    
+}
+agenda{
+    margin: auto; 
+    padding: 5px; 
+    text-align: center; 
+    background-color: #6aa3b0;
+}
+
+persona { 
+    display:inline-block; 
+    width: 200px;
+    height: 250px;
+    margin: 2rem;
+    border: 3px solid #02070b;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    background-color:#7e9cb8 ;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+nombre[name]::before {content:attr(name)": ";
+    display: block; 
+    color: rgb(11, 65, 73); 
+    font-weight: bold; 
+}  
+
+telefono[name]::before {content:attr(name)": ";
+    display: block; 
+    color: rgb(11, 65, 73); 
+    font-weight: bold; 
+
+} 
+
+celular[name]::before {content:attr(name)": "; 
+    display: block;
+    color: rgb(11, 65, 73);
+    font-weight: bold;
+ 
+} 
+
+direccion[name]::before {content:attr(name)": "; 
+    display: block;
+    color: rgb(11, 65, 73); 
+    font-weight: bold; 
+
+} 
+
+email[name]::before {content:attr(name)": "; 
+    display: block;
+    color: rgb(11, 65, 73); 
+    font-weight: bold; 
+
+} 

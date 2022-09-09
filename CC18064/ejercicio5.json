@@ -1,0 +1,58 @@
+{
+	"agendas":{"agenda":[
+			{
+				"@idagenda":"1",
+				"contacto":{
+					"nombre":"Karina Cárcamo",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2311-9681"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"7960-6358"
+						}
+					],
+					"direccion":"San Salvador, El Salvador",
+					"email":"karicarcamo@gmail.com"
+				}
+			},
+			{
+				"@idagenda":"2",
+				"contacto":{
+					"nombre":"Kevin Rivas",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2257-9963"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"6378-6566"
+						}
+					],
+					"direccion":"Cojutepeque, Cuscatlán",
+					"email":"kevrivas@gmail.com"
+				}
+			},
+			{
+				"@idagenda":"3",
+				"contacto":{
+					"nombre":"Karla Hernández",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2227-9873"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"7876-6976"
+						}
+					],
+					"direccion":"San Salvador, El Salvador",
+					"email":"karla@gmail.com"
+				}
+			}
+		]}
+}

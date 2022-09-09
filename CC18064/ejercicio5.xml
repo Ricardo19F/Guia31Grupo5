@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- ejercicio5.xml  CC18064-->
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
+
+<agendas>
+
+    <agenda idagenda="1">
+      <contacto>
+       <nombre>Karina Cárcamo</nombre> 
+       <telefono tipo="fijo">2311-9681</telefono>
+       <telefono tipo="celular">7960-6358</telefono>
+       <direccion>San Salvador, El Salvador</direccion>
+       <email>karicarcamo@gmail.com</email>
+      </contacto>
+    </agenda>
+
+    <agenda idagenda="2">
+     <contacto>
+       <nombre>Kevin Rivas</nombre>
+       <telefono tipo="fijo">2257-9963</telefono>
+       <telefono tipo="celular">6378-6566</telefono>
+       <direccion>Cojutepeque, Cuscatlán</direccion>
+       <email>kevrivas@gmail.com</email>
+     </contacto>
+    </agenda>
+
+   <agenda idagenda="3">
+     <contacto>
+       <nombre>Karla Hernández</nombre>
+       <telefono tipo="fijo">2227-9873</telefono>
+       <telefono tipo="celular">7876-6976</telefono>
+       <direccion>San Salvador, El Salvador</direccion>
+       <email>karla@gmail.com</email>
+     </contacto>
+    </agenda>
+
+  </agendas>

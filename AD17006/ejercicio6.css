@@ -1,0 +1,32 @@
+estudiante {
+    background-color:lightsteelblue;
+    white-space: pre;
+}
+estudiante::before{
+    content: "\A Datos del estudiante\A Nombre(s) del estudiante: "attr(nombre)
+    "\A Apellido(s): "attr(apellido)"."
+    "\A Carnet: "attr(carnet);
+    color:indigo;
+}
+estudiante materia::before{
+    content: "Nombre de la materia: "attr(codigo)"\A Codigo de la materia: "attr(codigo);
+    color:blue;
+}
+estudiante horario-teorico::before{
+    content: "Dias de clase: ";
+    color:blueviolet;
+} 
+estudiante horario-teorico::after{
+    content: "\A Hora: "attr(hora);
+    color:blueviolet;
+} 
+estudiante horario-lab::before{
+    content: "\A Dia de laboratorio: ";
+    color:crimson;
+}
+estudiante horario-lab::after{
+    content: ", hora de laboratorio: "attr(hora);
+    color:crimson;
+};
+/*attr(dias)"\A Hora: "attr(hora)*/
+

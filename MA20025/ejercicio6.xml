@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio6.css"?>
+
+<datos>
+  <estudiante>
+    <nombres>Luis Enrique</nombres>
+    <apellidos>Moran Arriola</apellidos>
+    <carnet>MA20025</carnet>
+    <subtitulo>MATERIAS</subtitulo>
+  </estudiante>
+  <materias>
+    <nombrem>Técnicas de programación para internet</nombrem>
+    <codigo>TPI-115</codigo>
+    <teorico>Jueves 8:00 P.M</teorico>
+    <laboratorio>Miercoles 8:P.M</laboratorio>
+  </materias>
+  <materias>
+    <nombrem>Ingenieria Economica</nombrem>
+    <codigo>IEC-115</codigo>
+    <teorico>Lunes y Miércoles 8:05 A.M.</teorico>
+    <laboratorio>Viernes 11:35 A.M,</laboratorio>
+  </materias>
+  <materias>
+    <nombrem>Teoria de Sistemas</nombrem>
+    <codigo>TSI-115</codigo>
+    <teorico>Lunes y Miercoles 11:35 A.M.</teorico>
+    <laboratorio>Martes 3:05 P.M,</laboratorio>
+  </materias>
+</datos>

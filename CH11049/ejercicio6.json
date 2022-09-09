@@ -1,0 +1,31 @@
+{
+  "ciclo": {
+    "estudiante": {
+      "nombre": "Wendy Xiomara",
+      "apellidos": "Cortez Hernandez"
+    },
+    "materia": [
+      {
+        "nombre": "Técnicas de Programacion para Internet",
+        "teorico": "Jueves de 8:00pm a 10:00pm",
+        "laboratorio": "Martes de 8:00pm a 9:00pm"
+      },
+      {
+        "nombre": "Teoria de Sistemas",
+        "teorico": "Martes y Viernes de 11:35am a 1:15pm",
+        "Discusion": "Miercoles de 3:05pm a 4:45pm"
+      },
+      {
+        "nombre": "Tecnologia Orientada a Objetos",
+        "teorico": "Lunes y Miercoles de 9:50am a 11:30am",
+        "laboratorio": "Jueves de 5:00pm a 6:30pm"
+      },
+      {
+        "nombre": "Fisica 3",
+        "teorico": "Lunes y Miercoles de 8:05am a 9:45am",
+        "Discusion":"Martes de 1:20pm a 3:00pm",
+        "laboratorio": "Jueves de 4:50pm a 6:30pm"
+      }
+    ]
+  }
+}

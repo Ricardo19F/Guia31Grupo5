@@ -1,0 +1,17 @@
+snet {
+    background-color:lightyellow;
+    white-space: pre;
+    color:brown;
+}
+snet region::before{
+    content: "\A Nombre de la region: "attr(nombre)" - Registro de temperaturas semanal: \A";
+    font-weight: bold;
+}
+snet registro::before{
+    content:"\A Dia: "attr(dia)" - Temperatura minima: "attr(minima)"C"
+    " - Maxima: "attr(maxima)"C" " - Temperatura promedio: "attr(promedio)"C";
+    color: black;
+}
+snet registro::after{
+    content: "\A *************************************************************************";
+}

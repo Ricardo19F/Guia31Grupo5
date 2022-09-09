@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- ejercicio6.xml  CC18064-->
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+
+<ciclo id="1">
+   <estudiante> 
+     <nombre>Sophia Michelle</nombre>
+     <apellido>Cárcamo López</apellido>
+     <carnet>CL19605</carnet>
+   </estudiante>
+
+   <materia codigo="FIR215"> 
+        <nom>Física II</nom>
+        <teorico>Lunes y Miércoles: 11:35am - 1:15pm</teorico>
+        <laboratorio>Miércoles: 9:50am - 11:30am</laboratorio>
+   </materia>
+
+   <materia codigo="MAT315"> 
+        <nom>Matemática III</nom>
+        <teorico>Martes y Viernes: 8:05am - 9:45am</teorico>
+        <laboratorio>Lunes: 9:50am - 11:30am</laboratorio>
+   </materia>
+
+   <materia codigo="PYE115"> 
+        <nom>Probabilidad y Estadística</nom>
+        <teorico>Lunes y Miércoles: 6:20am - 8:00am</teorico>
+        <laboratorio>Viernes: 1:20am - 3:00pm</laboratorio>
+   </materia>
+</ciclo>

@@ -1,0 +1,168 @@
+{
+	"datos":{
+		"titulo":"TEMPERATURAS POR ZONA",
+		"registro":[
+			{
+				"dia":"Domingo",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"27.5°",
+					"27.5°",
+					"29°"
+				],
+				"minima":[
+					"20°",
+					"20°",
+					"21°"
+				]
+			},
+			{
+				"dia":"Lunes",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"27.5°",
+					"27.5°",
+					"29°"
+				],
+				"minima":[
+					"20°",
+					"20°",
+					"21°"
+				]
+			},
+			{
+				"dia":"Martes",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"27.5°",
+					"27.5°",
+					"29°"
+				],
+				"minima":[
+					"20°",
+					"20°",
+					"21°"
+				]
+			},
+			{
+				"dia":"Miercoles",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"36°",
+					"36°",
+					"37°"
+				],
+				"media":[
+					"28.5°",
+					"28.5°",
+					"29.5°"
+				],
+				"minima":[
+					"21°",
+					"21°",
+					"22°"
+				]
+			},
+			{
+				"dia":"Jueves",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"28.5°",
+					"28.5°",
+					"29.5°"
+				],
+				"minima":[
+					"22°",
+					"22°",
+					"22°"
+				]
+			},
+			{
+				"dia":"Viernes",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"28°",
+					"28°",
+					"29°"
+				],
+				"minima":[
+					"21°",
+					"20°",
+					"21°"
+				]
+			},
+			{
+				"dia":"Sabado",
+				"zona":[
+					"Zona Central",
+					"Zona Occidental",
+					"Zona Oriental"
+				],
+				"maxima":[
+					"35°",
+					"35°",
+					"37°"
+				],
+				"media":[
+					"27.5°",
+					"27.5°",
+					"28.5°"
+				],
+				"minima":[
+					"20°",
+					"20°",
+					"20°"
+				]
+			}
+		]
+	}
+}

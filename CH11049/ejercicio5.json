@@ -1,0 +1,76 @@
+{
+  "agenda": {
+    "persona": [
+      {
+        "nombre": "Diana Meléndez",
+        "telefono": "2225-8915",
+        "celular": "7356-9985",
+        "direccion": "San salvador, San salvador",
+        "email": "ml17017@ues.edu.sv"
+      },
+      {
+        "nombre": "Wendy Cortez",
+        "telefono": "2265-2597",
+        "celular": "6039-5197",
+        "direccion": "San Salvador, San salvador",
+        "email": "ch14011@ues.edu.sv"
+      },
+      {
+        "nombre": "Hisselle Cortez",
+        "telefono": "2265-3535",
+        "celular": "7852-2506",
+        "direccion": "La Paz, Zacatecoluca",
+        "email": "hc20016@ues.edu.sv"
+      },
+      {
+        "nombre": "Josué Cortez",
+        "telefono": "2225-7894",
+        "celular": "7060-2351",
+        "direccion": "La Paz, Zacatecoluca",
+        "email": "jc20033@ues.edu.sv"
+      },
+      {
+        "nombre": "Jennifer Aguilar",
+        "telefono": "2365-0256",
+        "celular": "7589-2301",
+        "direccion": "San salvador, San Salvador",
+        "email": "ja14017@ues.edu.sv"
+      },
+      {
+        "nombre": "Alexander Rivas",
+        "telefono": "2265-1235",
+        "celular": "7998-9854",
+        "direccion": "San salvador, San salvador",
+        "email": "ar20023@ues.edu.sv"
+      },
+      {
+        "nombre": "Vladimir Chavez",
+        "telefono": "2213-1514",
+        "celular": "7614-1412",
+        "direccion": "San salvador, Soyapango",
+        "email": "vc19002@ues.edu.sv"
+      },
+      {
+        "nombre": "Mario Ayala",
+        "telefono": "2326-0214",
+        "celular": "7562-9047",
+        "direccion": "San salvador, Soyapango",
+        "email": "ma17002@ues.edu.sv"
+      },
+      {
+        "nombre": "Marlene Aguilar",
+        "telefono": "2369-0249",
+        "celular": "7897-1010",
+        "direccion": "La Paz, Zacatecoluca",
+        "email": "ma10233@ues.edu.sv"
+      },
+      {
+        "nombre": "Nelson Martinez",
+        "telefono": "2254-2310",
+        "celular": "7895-1012",
+        "direccion": "San salvador, San Salvador",
+        "email": "nm12312@ues.edu.sv"
+      }
+    ]
+  }
+}

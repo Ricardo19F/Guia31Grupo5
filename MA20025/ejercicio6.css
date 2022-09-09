@@ -1,0 +1,29 @@
+datos{
+	display: table;
+	border-spacing: 3px;
+	border: rgba(255, 94, 0, 0.898) 4px solid;
+	margin: auto
+}
+
+datos{
+	font-size: 15px;
+    	text-transform: uppercase;
+    	letter-spacing: 3px;
+    	color: rgb(100, 156, 69);
+}
+
+nombres, apellidos, carnet, subtitulo {
+	display: table-row;
+	background-color: #8ec34ee1;
+	color: rgba(85, 119, 75, 0.818);
+	padding: 3 px;
+	text-align: center;
+}
+
+nombrem, codigo, teorico, laboratorio {
+	display: table-row;
+	background-color: #9dc2fb;
+	color: blue;
+	padding: 3 px;
+	text-align: center;
+}	

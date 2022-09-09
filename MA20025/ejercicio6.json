@@ -1,0 +1,30 @@
+{
+	"datos":{
+		"estudiante":{
+			"nombres":"Luis Enrique",
+			"apellidos":"Moran Arriola",
+			"carnet":"MA20025",
+			"subtitulo":"MATERIAS"
+		},
+		"materias":[
+			{
+				"nombrem":"Técnicas de programación para internet",
+				"codigo":"TPI-115",
+				"teorico":"Jueves 8:00 P.M.",
+				"laboratorio":"Miercoles 8:P.M"
+			},
+			{
+				"nombrem":"Ingenieria Economica",
+				"codigo":"IEC-115",
+				"teorico":"Lunes y Miércoles 8:05 A.M.",
+				"laboratorio":"Viernes 11:35 A.M"
+			},
+			{
+				"nombrem":"Teoria de Sistemas",
+				"codigo":"TSI-115",
+				"teorico":"Lunes y Miercoles 11:35 A.M.",
+				"laboratorio":"Martes 3:05 P.M"
+			}
+		]
+	}
+}

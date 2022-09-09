@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio4.css" ?>
+<!--diseñe un documento xml bien formado (con su respectiva hoja de estilos) para el registro semanal diario de las temperaturas (mínima, promedio y máxima) del SNET, en las tres regiones del país (oriental, central y occidental)-->
+<snet descripcion="Resumen de temperaturas en las regiones  que conforman El Salvador.">
+<region nombre="oriental">
+<registro dia="lunes" minima="20" maxima="25" promedio="22.5"></registro>
+<registro dia="martes" minima="22" maxima="26" promedio="24"></registro>
+<registro dia="miercoles" minima="23" maxima="26" promedio="24.5"></registro>
+<registro dia="jueves" minima="21" maxima="29" promedio="25"></registro>
+<registro dia="viernes" minima="19" maxima="25" promedio="22"></registro>
+<registro dia="sabado" minima="23" maxima="29" promedio="26"></registro>
+<registro dia="domingo" minima="20" maxima="28" promedio="24"></registro>
+</region>
+<region nombre="central">
+<registro dia="lunes" minima="20" maxima="28" promedio="24"></registro>
+<registro dia="martes" minima="23" maxima="29" promedio="26"></registro>
+<registro dia="miercoles" minima="19" maxima="25" promedio="22"></registro>
+<registro dia="jueves" minima="23" maxima="26" promedio="24.5"></registro>
+<registro dia="viernes" minima="21" maxima="29" promedio="25"></registro>
+<registro dia="sabado" minima="22" maxima="26" promedio="24"></registro>
+<registro dia="domingo" minima="20" maxima="25" promedio="22.5"></registro>
+</region>
+<region nombre="occidental">
+<registro dia="lunes" minima="23" maxima="29" promedio="26"></registro>
+<registro dia="martes" minima="23" maxima="26" promedio="24.5"></registro>
+<registro dia="miercoles" minima="20" maxima="25" promedio="22.5"></registro>
+<registro dia="jueves" minima="22" maxima="26" promedio="24"></registro>
+<registro dia="viernes" minima="19" maxima="25" promedio="22"></registro>
+<registro dia="sabado" minima="20" maxima="28" promedio="24"></registro>
+<registro dia="domingo" minima="21" maxima="29" promedio="25"></registro>
+</region>
+</snet>

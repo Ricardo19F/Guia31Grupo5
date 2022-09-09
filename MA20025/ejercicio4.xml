@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio4.css"?>
+
+<datos>
+  <titulo>TEMPERATURAS POR ZONA</titulo>
+  <registro>
+    <dia>Domingo</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29°</media>
+    <minima>21°</minima>
+  </registro>
+  <registro>
+    <dia>Lunes</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29°</media>
+    <minima>21°</minima>
+  </registro>
+  <registro>
+    <dia>Martes</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29°</media>
+    <minima>21°</minima>
+  </registro>
+  <registro>
+    <dia>Miercoles</dia>
+    <zona>Zona Central</zona>
+    <maxima>36°</maxima>
+    <media>28.5°</media>
+    <minima>21°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>36°</maxima>
+    <media>28.5°</media>
+    <minima>21°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29.5°</media>
+    <minima>22°</minima>
+  </registro>
+  <registro>
+    <dia>Jueves</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>28.5°</media>
+    <minima>22°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>28.5°</media>
+    <minima>22°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29.5°</media>
+    <minima>22°</minima>
+  </registro>
+  <registro>
+    <dia>Viernes</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>28°</media>
+    <minima>21°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>28°</media>
+    <minima>20°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>29°</media>
+    <minima>21°</minima>
+  </registro>
+  <registro>
+    <dia>Sabado</dia>
+    <zona>Zona Central</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Occidental</zona>
+    <maxima>35°</maxima>
+    <media>27.5°</media>
+    <minima>20°</minima>
+    <zona>Zona Oriental</zona>
+    <maxima>37°</maxima>
+    <media>28.5°</media>
+    <minima>20°</minima>
+  </registro>
+</datos>

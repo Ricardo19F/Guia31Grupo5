@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
+
+<agendas>
+
+    <agenda idagenda="1">
+      <contacto>
+       <nombre>Leonel Palacios</nombre> 
+       <telefono tipo="fijo">2211-2481</telefono>
+       <telefono tipo="celular">7258-8433</telefono>
+       <direccion>San Salvador, El Salvador</direccion>
+       <email>alejandroplc3@gmail.com</email>
+      </contacto>
+    </agenda>
+
+    <agenda idagenda="2">
+     <contacto>
+       <nombre>Andres Rivera</nombre>
+       <telefono tipo="fijo">2222-3333</telefono>
+       <telefono tipo="celular">7128-2013</telefono>
+       <direccion>Apopa, San Salvador</direccion>
+       <email>andresrivera@gmail.com</email>
+     </contacto>
+    </agenda>
+
+   <agenda idagenda="3">
+     <contacto>
+       <nombre>Eduardo Guerreta</nombre>
+       <telefono tipo="fijo">2121-2273</telefono>
+       <telefono tipo="celular">7788-6376</telefono>
+       <direccion>Antiguo cuscatlan, El Salvador</direccion>
+       <email>Guerreta@gmail.com</email>
+     </contacto>
+    </agenda>
+
+  </agendas>

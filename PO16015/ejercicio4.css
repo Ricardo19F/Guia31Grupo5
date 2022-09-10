@@ -1,0 +1,57 @@
+* {
+    font-family: 'JetBrains Mono', Courier, monospace;
+}
+
+registro {
+    background-color:darkblue;
+}
+
+region {
+    background-color: darkslateblue;
+    padding: 1rem 2rem;
+
+    margin: 1rem;
+    border-radius: .5rem;
+
+    display: grid;
+    box-shadow: 0px 5px 10px #3335;
+}
+
+region::before {
+    content: "Región: " attr(nombre);
+    text-decoration: underline solid 2px;
+}
+
+region {
+    display: grid;
+    margin-bottom: 2rem;
+}
+
+dia::before {
+    margin-left: 1rem;
+    content: attr(nombre)":";
+}
+
+minima::before {
+    margin-left: 1rem;
+    content: "Min ";
+}
+
+promedio::before {
+    margin-left: 1rem;
+    content: "Prom ";
+}
+
+maxima::before {
+    margin-left: 1rem;
+    content: "Max ";
+}
+
+region::before,
+dia::before, 
+minima::before, 
+promedio::before, 
+maxima::before {
+    font-weight: 600;
+}
+

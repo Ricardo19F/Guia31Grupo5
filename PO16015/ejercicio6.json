@@ -1,0 +1,30 @@
+{
+	"ciclo":{
+		"@id":"1",
+		"estudiante":{
+			"nombre":"Leonel Alejandro",
+			"apellido":"Palacios Ortiz",
+			"carnet":"PO16015"
+		},
+		"materia":[
+			{
+				"@codigo":"PRN315",
+				"nombre":"Programación 3",
+				"teorico":"Martes y Vuernes: 9:50am - 11:30pm",
+				"laboratorio":"Miércoles: 8:05am - 9:45am"
+			},
+			{
+				"@codigo":"MAT415",
+				"nombre":"Matemática IV",
+				"teorico":"Lunes y Miercoles: 8:05am - 9:45am",
+				"laboratorio":"Viernes: 1:20pm - 3:00pm"
+			},
+			{
+				"@codigo":"MSM115",
+				"nombre":"Manejo de software para microcomputadoras",
+				"teorico":"Lunes y Miércoles: 6:20am - 8:00am",
+				"laboratorio":"Martes 6:20am - 8:00am"
+			}
+		]
+	}
+}

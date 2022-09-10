@@ -1,0 +1,58 @@
+{
+	"agendas":{"agenda":[
+			{
+				"@idagenda":"1",
+				"contacto":{
+					"nombre":"Leonel Palacios",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2211-2481"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"7258-8433"
+						}
+					],
+					"direccion":"San Salvador, El Salvador",
+					"email":"alejandroplc3@gmail.com"
+				}
+			},
+			{
+				"@idagenda":"2",
+				"contacto":{
+					"nombre":"Andres Rivera",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2222-3333"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"7128-2013"
+						}
+					],
+					"direccion":"Apopa, San Salvador",
+					"email":"andresrivera@gmail.com"
+				}
+			},
+			{
+				"@idagenda":"3",
+				"contacto":{
+					"nombre":"Eduardo Guerreta",
+					"telefono":[
+						{
+							"@tipo":"fijo",
+							"#text":"2121-2273"
+						},
+						{
+							"@tipo":"celular",
+							"#text":"7788-6376"
+						}
+					],
+					"direccion":"Antiguo cuscatlan, El Salvador",
+					"email":"Guerreta@gmail.com"
+				}
+			}
+		]}
+}

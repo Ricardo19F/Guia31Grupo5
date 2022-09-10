@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+
+<ciclo id="1">
+   <estudiante> 
+     <nombre>Leonel Alejandro</nombre>
+     <apellido>Palacios Ortiz</apellido>
+     <carnet>PO16015</carnet>
+   </estudiante>
+
+   <materia codigo="PRN315"> 
+        <nom>Programación 3</nom>
+        <teorico>Martes y Vuernes: 9:50am - 11:30pm</teorico>
+        <laboratorio>Miércoles: 8:05am - 9:45am</laboratorio>
+   </materia>
+
+   <materia codigo="MAT415"> 
+        <nom>Matemática IV</nom>
+        <teorico>Lunes y Miercoles: 8:05am - 9:45am</teorico>
+        <laboratorio>Viernes: 1:20pm - 3:00pm</laboratorio>
+   </materia>
+
+   <materia codigo="MSM115"> 
+        <nom>Manejo de software para microcomputadoras</nom>
+        <teorico>Lunes y Miércoles: 6:20am - 8:00am</teorico>
+        <laboratorio>Martes 6:20am - 8:00am</laboratorio>
+   </materia>
+</ciclo>

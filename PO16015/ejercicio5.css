@@ -1,0 +1,57 @@
+* {
+    font-family: 'JetBrains Mono', Courier, monospace;
+}
+
+agendas {
+    background-color: rgb(247, 19, 19);
+}
+
+contacto {
+    background-color: aliceblue;
+    padding: 1rem 2rem;
+
+    margin: 1rem;
+    border-radius: .5rem;
+
+    display: grid;
+    box-shadow: 0px 5px 10px #3335;
+}
+
+contacto::before {
+    content: "CONTACTO:";
+    text-decoration: underline solid 2px;
+}
+
+contacto {
+    display: grid;
+    margin-bottom: 2rem;
+}
+
+nombre::before {
+    margin-left: 1rem;
+    content: "Nombre: ";
+}
+
+telefono::before {
+    margin-left: 1rem;
+    content: "Teléfono: ";
+}
+
+direccion::before {
+    margin-left: 1rem;
+    content: "Dirección: ";
+}
+
+email::before {
+    margin-left: 1rem;
+    content: "Email: ";
+}
+
+contacto::before,
+nombre::before, 
+telefono::before, 
+direccion::before, 
+email::before {
+    font-weight: 600;
+}
+

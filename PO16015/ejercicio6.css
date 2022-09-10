@@ -1,0 +1,77 @@
+* {
+    font-family: 'JetBrains Mono', Courier, monospace;
+}
+
+ciclo {
+    background-color: darkgreen;
+}
+
+estudiante{
+    background-color: darkolivegreen;
+    padding: 1rem 2rem;
+
+    margin: 1rem;
+    border-radius: .5rem;
+
+    display: grid;
+    box-shadow: 0px 5px 10px #3335;
+}
+
+estudiante::before {
+    content: "ESTUDIANTE: ";
+    text-decoration: underline solid 2px;
+}
+
+estudiante {
+    display: grid;
+    margin-bottom: 2rem;
+}
+
+nombre::before {
+    margin-left: 1rem;
+    content: "Nombre: ";
+}
+
+apellido::before {
+    margin-left: 1rem;
+    content: "Apellido: ";
+}
+
+carnet::before {
+    margin-left: 1rem;
+    content: "Carnet: ";
+}
+
+materia{
+    background-color: olive;
+    padding: 1rem 2rem;
+
+    margin: 1rem;
+    border-radius: .5rem;
+
+    display: grid;
+    box-shadow: 0px 5px 10px #3335;
+}
+
+materia::before {
+    content: attr(codigo);
+    text-decoration: underline solid 2px;
+}
+teorico::before {
+    margin-left: 1rem;
+    content: "Teórico: ";
+}
+laboratorio::before {
+    margin-left: 1rem;
+    content: "Laboratorio: ";
+}
+
+estudiante::before,
+nombre::before, 
+apellido::before, 
+carnet::before, 
+materia::before,
+teorico::before,
+laboratorio::before {
+    font-weight: 600;
+}

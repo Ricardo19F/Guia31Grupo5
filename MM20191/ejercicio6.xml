@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio6.css" ?>
+
+<!-- ejercicio 6     mm20191 -->
+
+<universidad title="Ciclo Par 2022">
+<estudiante>
+<nombres>Rodrigo Javier</nombres>
+<apellidos>Mejia Merino</apellidos>
+<carnet>MM20191</carnet>
+</estudiante>
+<materia id="orden" name="Ingenieria Economica">
+<codigo>IEC115</codigo>
+<teorico>GT-08 (9:50-11:30am)</teorico>
+<laboratorio>GD-05 (11:35-13:15pm)</laboratorio>
+</materia>
+<materia id="orden" name="Metodos Probabilisticos">
+<codigo>MEP115</codigo>
+<teorico>GT-01 (6:20-8:00am)</teorico>
+<laboratorio>GL-03 (11:35-13:15pm)</laboratorio>
+</materia>
+<materia id="orden" name="Tecnicas de Programacion para Internet">
+<codigo>TPI115</codigo>
+<teorico>GT-01 (8:05-9:45am)</teorico>
+<laboratorio>GL-02 (13:20-15:00pm)</laboratorio>
+</materia>
+</universidad>

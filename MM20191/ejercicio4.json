@@ -1,0 +1,152 @@
+{
+	"temperatura": {
+		"region": [
+			{
+				"registrosemanal": {
+					"lunes": {
+						"minima": "20°",
+						"maxima": "30°",
+						"promedio": "24°",
+						"_id": "orden"
+					},
+					"martes": {
+						"minima": "19°",
+						"maxima": "30°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"miercoles": {
+						"minima": "20°",
+						"maxima": "29°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"jueves": {
+						"minima": "19°",
+						"maxima": "29°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"viernes": {
+						"minima": "19°",
+						"maxima": "29°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"sabado": {
+						"minima": "20°",
+						"maxima": "28°",
+						"promedio": "21°",
+						"_id": "orden"
+					},
+					"domingo": {
+						"minima": "18°",
+						"maxima": "29°",
+						"promedio": "22°",
+						"_id": "orden"
+					}
+				},
+				"_id": "1",
+				"_nombre": "Occidental"
+			},
+			{
+				"registrosemanal": {
+					"lunes": {
+						"minima": "20°",
+						"maxima": "28°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"martes": {
+						"minima": "19°",
+						"maxima": "28°",
+						"promedio": "23°",
+						"_id": "orden"
+					},
+					"miercoles": {
+						"minima": "19°",
+						"maxima": "27°",
+						"promedio": "22°",
+						"_id": "orden"
+					},
+					"jueves": {
+						"minima": "20°",
+						"maxima": "27°",
+						"promedio": "22°",
+						"_id": "orden"
+					},
+					"viernes": {
+						"minima": "20°",
+						"maxima": "28°",
+						"promedio": "22°",
+						"_id": "orden"
+					},
+					"sabado": {
+						"minima": "19°",
+						"maxima": "27°",
+						"promedio": "22°",
+						"_id": "orden"
+					},
+					"domingo": {
+						"minima": "19°",
+						"maxima": "26°",
+						"promedio": "22°",
+						"_id": "orden"
+					}
+				},
+				"_id": "2",
+				"_nombre": "Central"
+			},
+			{
+				"registrosemanal": {
+					"lunes": {
+						"minima": "23°",
+						"maxima": "31°",
+						"promedio": "27°",
+						"_id": "orden"
+					},
+					"martes": {
+						"minima": "23°",
+						"maxima": "30°",
+						"promedio": "26°",
+						"_id": "orden"
+					},
+					"miercoles": {
+						"minima": "23°",
+						"maxima": "30°",
+						"promedio": "26°",
+						"_id": "orden"
+					},
+					"jueves": {
+						"minima": "23°",
+						"maxima": "30°",
+						"promedio": "26°",
+						"_id": "orden"
+					},
+					"viernes": {
+						"minima": "23°",
+						"maxima": "30°",
+						"promedio": "26°",
+						"_id": "orden"
+					},
+					"sabado": {
+						"minima": "23°",
+						"maxima": "30°",
+						"promedio": "25°",
+						"_id": "orden"
+					},
+					"domingo": {
+						"minima": "22°",
+						"maxima": "30°",
+						"promedio": "25°",
+						"_id": "orden"
+					}
+				},
+				"_id": "3",
+				"_nombre": "Oriental"
+			}
+		],
+		"_pais": "El Salvador",
+		"_tittle": "Registro de Temperaturas en las 3 regiones del pais."
+	}
+}

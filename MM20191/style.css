@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    text-decoration: none;
+    margin: 0;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 20em;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.caja{
+    display: block;
+    position: relative;
+    width: 20%;
+    height: auto;
+}

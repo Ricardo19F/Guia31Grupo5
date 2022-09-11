@@ -1,0 +1,31 @@
+ficha{
+    display: flex;
+    font-family: 'Gill Sans', sans-serif;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2em;
+}
+
+ficha[name]::before{
+    content: attr(name);
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+tarjeta{
+    display: block;
+    text-align: center;
+    width: 30%;
+    padding: 1em;
+    margin: 0.3em;
+    color: white;
+    background-color: rgb(35, 28, 107);
+    border-radius: 10px;
+}
+
+tarjeta > telefono, direccion, email {
+    display: block;
+}

@@ -1,0 +1,33 @@
+{
+	"universidad": {
+		"estudiante": {
+			"nombres": "Rodrigo Javier",
+			"apellidos": "Mejia Merino",
+			"carnet": "MM20191"
+		},
+		"materia": [
+			{
+				"codigo": "IEC115",
+				"teorico": "GT-08 (9:50-11:30am)",
+				"laboratorio": "GD-05 (11:35-13:15pm)",
+				"_id": "orden",
+				"_name": "Ingenieria Economica"
+			},
+			{
+				"codigo": "MEP115",
+				"teorico": "GT-01 (6:20-8:00am)",
+				"laboratorio": "GL-03 (11:35-13:15pm)",
+				"_id": "orden",
+				"_name": "Metodos Probabilisticos"
+			},
+			{
+				"codigo": "TPI115",
+				"teorico": "GT-01 (8:05-9:45am)",
+				"laboratorio": "GL-02 (13:20-15:00pm)",
+				"_id": "orden",
+				"_name": "Tecnicas de Programacion para Internet"
+			}
+		],
+		"_title": "Ciclo Par 2022"
+	}
+}

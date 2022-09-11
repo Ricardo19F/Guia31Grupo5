@@ -1,0 +1,29 @@
+{
+	"ficha": {
+		"tarjeta": [
+			{
+				"nombre": "Ernesto",
+				"apellido": "Zelaya",
+				"telefono": "6016 1479",
+				"direccion": "Calle hacia canton agua fria",
+				"email": "ernestZ01@gmail.com"
+			},
+			{
+				"nombre": "Samuel",
+				"apellido": "Cuellar",
+				"telefono": "7843 9176",
+				"direccion": "Av. el comercio, Guazapa",
+				"email": "samuel.cuber@gmail.com"
+			},
+			{
+				"nombre": "Eduardo",
+				"apellido": "Mejia",
+				"telefono": "7550 5618",
+				"direccion": "3ra avenida sur",
+				"email": "wayo2203@gmail.com"
+			}
+		],
+		"_id": "1",
+		"_name": "Agenda de contactos personales"
+	}
+}

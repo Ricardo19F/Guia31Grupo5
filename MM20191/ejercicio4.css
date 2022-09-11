@@ -1,0 +1,51 @@
+temperatura{
+    display: flex;
+    font-family: 'Gill Sans', sans-serif;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+temperatura[tittle]::before {
+    content: attr(tittle);
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+
+region{
+    display: inline-block;
+    position: relative;
+    width: 25%;
+    height: auto;
+    text-align: center;
+}
+
+region[nombre]::before{
+    content: attr(nombre);
+}
+
+registrosemanal{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+minima{
+    color: rgb(17, 255, 0);
+}
+
+maxima{
+    color: red;
+}
+
+promedio{
+    color: blue;
+}
+
+#orden{
+    display: block;
+    border: 1px solid black;
+}

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio4.css" ?>
+
+<!-- Ejercicio 4    mm20191-->
+<temperatura pais="El Salvador" tittle="Registro de Temperaturas en las 3 regiones del pais.">
+<region id="1" nombre="Occidental">
+<registrosemanal>
+<lunes id="orden">
+<minima>20°</minima>
+<maxima>30°</maxima>
+<promedio>24°</promedio>
+</lunes>
+<martes id="orden">
+<minima>19°</minima>
+<maxima>30°</maxima>
+<promedio>23°</promedio>
+</martes>
+<miercoles id="orden">
+<minima>20°</minima>
+<maxima>29°</maxima>
+<promedio>23°</promedio>
+</miercoles>
+<jueves id="orden">
+<minima>19°</minima>
+<maxima>29°</maxima>
+<promedio>23°</promedio>
+</jueves>
+<viernes id="orden">
+<minima>19°</minima>
+<maxima>29°</maxima>
+<promedio>23°</promedio>
+</viernes>
+<sabado id="orden">
+<minima>20°</minima>
+<maxima>28°</maxima>
+<promedio>21°</promedio>
+</sabado>
+<domingo id="orden">
+<minima>18°</minima>
+<maxima>29°</maxima>
+<promedio>22°</promedio>
+</domingo>
+</registrosemanal>
+</region>
+<region id="2" nombre="Central">
+<registrosemanal>
+<lunes id="orden">
+<minima>20°</minima>
+<maxima>28°</maxima>
+<promedio>23°</promedio>
+</lunes>
+<martes id="orden">
+<minima>19°</minima>
+<maxima>28°</maxima>
+<promedio>23°</promedio>
+</martes>
+<miercoles id="orden">
+<minima>19°</minima>
+<maxima>27°</maxima>
+<promedio>22°</promedio>
+</miercoles>
+<jueves id="orden">
+<minima>20°</minima>
+<maxima>27°</maxima>
+<promedio>22°</promedio>
+</jueves>
+<viernes id="orden">
+<minima>20°</minima>
+<maxima>28°</maxima>
+<promedio>22°</promedio>
+</viernes>
+<sabado id="orden">
+<minima>19°</minima>
+<maxima>27°</maxima>
+<promedio>22°</promedio>
+</sabado>
+<domingo id="orden">
+<minima>19°</minima>
+<maxima>26°</maxima>
+<promedio>22°</promedio>
+</domingo>
+</registrosemanal>
+</region>
+<region id="3" nombre="Oriental">
+<registrosemanal>
+<lunes id="orden">
+<minima>23°</minima>
+<maxima>31°</maxima>
+<promedio>27°</promedio>
+</lunes>
+<martes id="orden">
+<minima>23°</minima>
+<maxima>30°</maxima>
+<promedio>26°</promedio>
+</martes>
+<miercoles id="orden">
+<minima>23°</minima>
+<maxima>30°</maxima>
+<promedio>26°</promedio>
+</miercoles>
+<jueves id="orden">
+<minima>23°</minima>
+<maxima>30°</maxima>
+<promedio>26°</promedio>
+</jueves>
+<viernes id="orden"> 
+<minima>23°</minima>
+<maxima>30°</maxima>
+<promedio>26°</promedio>
+</viernes>
+<sabado id="orden">
+<minima>23°</minima>
+<maxima>30°</maxima>
+<promedio>25°</promedio>
+</sabado>
+<domingo id="orden">
+<minima>22°</minima>
+<maxima>30°</maxima>
+<promedio>25°</promedio>
+</domingo>
+</registrosemanal>
+</region>
+</temperatura>

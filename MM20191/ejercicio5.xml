@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio5.css" ?>
+
+<!-- ejercicio 5      mm20191 -->
+
+<ficha id="1" name="Agenda de contactos personales">
+<tarjeta>
+<nombre>Ernesto</nombre>
+<apellido>Zelaya</apellido>
+<telefono>6016 1479</telefono>
+<direccion>Calle hacia canton agua fria</direccion>
+<email>ernestZ01@gmail.com</email>
+</tarjeta>
+<tarjeta>
+<nombre>Samuel</nombre>
+<apellido>Cuellar</apellido>
+<telefono>7843 9176</telefono>
+<direccion>Av. el comercio, Guazapa</direccion>
+<email>samuel.cuber@gmail.com</email>
+</tarjeta>
+<tarjeta>
+<nombre>Eduardo</nombre>
+<apellido>Mejia</apellido>
+<telefono>7550 5618</telefono>
+<direccion>3ra avenida sur</direccion>
+<email>wayo2203@gmail.com</email>
+</tarjeta>
+</ficha>

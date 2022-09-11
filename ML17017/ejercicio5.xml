@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="Ejercicio5.css" ?>
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
 <agenda data-class="grid-container">
   <persona id="1">
-   <nombre name="Nombre">Diana Meléndez</nombre>
-   <telefono name="Telefono">2225-8915</telefono>
-   <celular name="Celular">7356-9985</celular>
-   <direccion name="Direccion">San salvador, San salvador</direccion>
-   <email name="Email">ml17017@ues.edu.sv</email>
-   <icono image="contactos.png"></icono>
+    <nombre name="Nombre">Diana Meléndez</nombre>
+    <telefono name="Telefono">2225-8915</telefono>
+    <celular name="Celular">7356-9985</celular>
+    <direccion name="Direccion">San salvador, San salvador</direccion>
+    <email name="Email">ml17017@ues.edu.sv</email>
+    <icono image="contactos.png"></icono>
   </persona>
   <persona id="2">
     <nombre name="Nombre">Wendy Cortez</nombre>
-   <telefono name="Telefono">2265-2597</telefono>
-   <celular name="Celular">6039-5197</celular>
-   <direccion name="Direccion">San Salvador, San salvador</direccion>
-   <email name="Email">ch14011@ues.edu.sv</email>
+    <telefono name="Telefono">2265-2597</telefono>
+    <celular name="Celular">6039-5197</celular>
+    <direccion name="Direccion">San Salvador, San salvador</direccion>
+    <email name="Email">ch14011@ues.edu.sv</email>
   </persona>
   <persona id="3">
-   <nombre name="Nombre">Krissia Meléndez</nombre>
-   <telefono name="Telefono">2225-3544</telefono>
-   <celular name="Celular">7952-5819</celular>
-   <direccion name="Direccion">San Salvador, Soyapango</direccion>
-   <email name="Email">ml2006@ues.edu.sv</email>
+    <nombre name="Nombre">Krissia Meléndez</nombre>
+    <telefono name="Telefono">2225-3544</telefono>
+    <celular name="Celular">7952-5819</celular>
+    <direccion name="Direccion">San Salvador, Soyapango</direccion>
+    <email name="Email">ml2006@ues.edu.sv</email>
   </persona>
-   <persona id="4">
+  <persona id="4">
     <nombre name="Nombre">Karina Mejia</nombre>
-   <telefono name="Telefono">2225-9374</telefono>
-   <celular name="Celular">7071-6521</celular>
-   <direccion name="Direccion">San Salvador, Soyapango</direccion>
-   <email name="Email">ml17021@ues.edu.sv</email>
+    <telefono name="Telefono">2225-9374</telefono>
+    <celular name="Celular">7071-6521</celular>
+    <direccion name="Direccion">San Salvador, Soyapango</direccion>
+    <email name="Email">ml17021@ues.edu.sv</email>
   </persona>
-   <persona id="5">
+  <persona id="5">
     <nombre name="Nombre">Carlos Anaya</nombre>
-   <telefono name="Telefono">2256-5892</telefono>
-   <celular name="Celular">7589-9170</celular>
-   <direccion name="Direccion">San salvador, San Salvador</direccion>
-   <email name="Email">am14017@ues.edu.sv</email>
+    <telefono name="Telefono">2256-5892</telefono>
+    <celular name="Celular">7589-9170</celular>
+    <direccion name="Direccion">San salvador, San Salvador</direccion>
+    <email name="Email">am14017@ues.edu.sv</email>
   </persona>
-   <persona id="6">
+  <persona id="6">
     <nombre name="Nombre">Edwin Aguilar</nombre>
-   <telefono name="Telefono">2225-9354</telefono>
-   <celular name="Celular">7998-9854</celular>
-   <direccion name="Direccion">San salvador, San salvador</direccion>
-   <email name="Email">am20023@ues.edu.sv</email>
+    <telefono name="Telefono">2225-9354</telefono>
+    <celular name="Celular">7998-9854</celular>
+    <direccion name="Direccion">San salvador, San salvador</direccion>
+    <email name="Email">am20023@ues.edu.sv</email>
   </persona>
   <persona id="7">
     <nombre name="Nombre">Josué Rivera</nombre>
-   <telefono name="Telefono">2296-3047</telefono>
-   <celular name="Celular">7069-0124</celular>
-   <direccion name="Direccion">San salvador, Soyapango</direccion>
-   <email name="Email">rm19002@ues.edu.sv</email>
+    <telefono name="Telefono">2296-3047</telefono>
+    <celular name="Celular">7069-0124</celular>
+    <direccion name="Direccion">San salvador, Soyapango</direccion>
+    <email name="Email">rm19002@ues.edu.sv</email>
   </persona>
   <persona id="8">
     <nombre name="Nombre">Stanley Jimenez</nombre>
-   <telefono name="Telefono">2296-9045</telefono>
-   <celular name="Celular">7002-9047</celular>
-   <direccion name="Direccion">San salvador, Soyapango</direccion>
-   <email name="Email">jm17002@ues.edu.sv</email>
+    <telefono name="Telefono">2296-9045</telefono>
+    <celular name="Celular">7002-9047</celular>
+    <direccion name="Direccion">San salvador, Soyapango</direccion>
+    <email name="Email">jm17002@ues.edu.sv</email>
   </persona>
 </agenda>

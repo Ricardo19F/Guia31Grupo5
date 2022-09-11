@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="Ejercicio5.css" ?>
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
 <agenda data-class="grid-container">
   <persona id="1">
-   <nombre name="Nombre">Diana Meléndez</nombre>
-   <telefono name="Telefono">2225-8915</telefono>
-   <celular name="Celular">7356-9985</celular>
-   <direccion name="Direccion">San salvador, San salvador</direccion>
-   <email name="Email">ml17017@ues.edu.sv</email>
-   <icono image="contactos.png"></icono>
+    <nombre name="Nombre">Diana Meléndez</nombre>
+    <telefono name="Telefono">2225-8915</telefono>
+    <celular name="Celular">7356-9985</celular>
+    <direccion name="Direccion">San salvador, San salvador</direccion>
+    <email name="Email">ml17017@ues.edu.sv</email>
+    <icono image="contactos.png"></icono>
   </persona>
   <persona id="2">
     <nombre name="Nombre">Wendy Cortez</nombre>
-   <telefono name="Telefono">2265-2597</telefono>
-   <celular name="Celular">6039-5197</celular>
-   <direccion name="Direccion">San Salvador, San salvador</direccion>
-   <email name="Email">ch14011@ues.edu.sv</email>
+    <telefono name="Telefono">2265-2597</telefono>
+    <celular name="Celular">6039-5197</celular>
+    <direccion name="Direccion">San Salvador, San salvador</direccion>
+    <email name="Email">ch14011@ues.edu.sv</email>
   </persona>
   <persona id="3">
-   <nombre name="Nombre">Hisselle Cortez</nombre>
-   <telefono name="Telefono">2265-3535</telefono>
-   <celular name="Celular">7852-2506</celular>
-   <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
-   <email name="Email">hc20016@ues.edu.sv</email>
+    <nombre name="Nombre">Hisselle Cortez</nombre>
+    <telefono name="Telefono">2265-3535</telefono>
+    <celular name="Celular">7852-2506</celular>
+    <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
+    <email name="Email">hc20016@ues.edu.sv</email>
   </persona>
-   <persona id="4">
+  <persona id="4">
     <nombre name="Nombre">Josué Cortez</nombre>
-   <telefono name="Telefono">2225-7894</telefono>
-   <celular name="Celular">7060-2351</celular>
-   <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
-   <email name="Email">jc20033@ues.edu.sv</email>
+    <telefono name="Telefono">2225-7894</telefono>
+    <celular name="Celular">7060-2351</celular>
+    <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
+    <email name="Email">jc20033@ues.edu.sv</email>
   </persona>
-   <persona id="5">
+  <persona id="5">
     <nombre name="Nombre">Jennifer Aguilar</nombre>
-   <telefono name="Telefono">2365-0256</telefono>
-   <celular name="Celular">7589-2301</celular>
-   <direccion name="Direccion">San salvador, San Salvador</direccion>
-   <email name="Email">ja14017@ues.edu.sv</email>
+    <telefono name="Telefono">2365-0256</telefono>
+    <celular name="Celular">7589-2301</celular>
+    <direccion name="Direccion">San salvador, San Salvador</direccion>
+    <email name="Email">ja14017@ues.edu.sv</email>
   </persona>
-   <persona id="6">
+  <persona id="6">
     <nombre name="Nombre">Alexander Rivas</nombre>
-   <telefono name="Telefono">2265-1235</telefono>
-   <celular name="Celular">7998-9854</celular>
-   <direccion name="Direccion">San salvador, San salvador</direccion>
-   <email name="Email">ar20023@ues.edu.sv</email>
+    <telefono name="Telefono">2265-1235</telefono>
+    <celular name="Celular">7998-9854</celular>
+    <direccion name="Direccion">San salvador, San salvador</direccion>
+    <email name="Email">ar20023@ues.edu.sv</email>
   </persona>
   <persona id="7">
     <nombre name="Nombre">Vladimir Chavez</nombre>
-   <telefono name="Telefono">2213-1514</telefono>
-   <celular name="Celular">7614-1412</celular>
-   <direccion name="Direccion">San salvador, San Salvador</direccion>
-   <email name="Email">vc19002@ues.edu.sv</email>
+    <telefono name="Telefono">2213-1514</telefono>
+    <celular name="Celular">7614-1412</celular>
+    <direccion name="Direccion">San salvador, San Salvador</direccion>
+    <email name="Email">vc19002@ues.edu.sv</email>
   </persona>
   <persona id="8">
     <nombre name="Nombre">Mario Ayala</nombre>
-   <telefono name="Telefono">2326-0214</telefono>
-   <celular name="Celular">7562-9047</celular>
-   <direccion name="Direccion">San salvador, San Salvador</direccion>
-   <email name="Email">ma17002@ues.edu.sv</email>
+    <telefono name="Telefono">2326-0214</telefono>
+    <celular name="Celular">7562-9047</celular>
+    <direccion name="Direccion">San salvador, San Salvador</direccion>
+    <email name="Email">ma17002@ues.edu.sv</email>
   </persona>
   <persona id="9">
     <nombre name="Nombre">Marlene Aguilar</nombre>
-   <telefono name="Telefono">2369-0249</telefono>
-   <celular name="Celular">7897-1010</celular>
-   <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
-   <email name="Email">ma10233@ues.edu.sv</email>
+    <telefono name="Telefono">2369-0249</telefono>
+    <celular name="Celular">7897-1010</celular>
+    <direccion name="Direccion">La Paz, Zacatecoluca</direccion>
+    <email name="Email">ma10233@ues.edu.sv</email>
   </persona>
   <persona id="10">
     <nombre name="Nombre">Nelson Martinez</nombre>
-   <telefono name="Telefono">2254-2310</telefono>
-   <celular name="Celular">7895-1012</celular>
-   <direccion name="Direccion">San salvador, San Salvador</direccion>
-   <email name="Email">nm12312@ues.edu.sv</email>
+    <telefono name="Telefono">2254-2310</telefono>
+    <celular name="Celular">7895-1012</celular>
+    <direccion name="Direccion">San salvador, San Salvador</direccion>
+    <email name="Email">nm12312@ues.edu.sv</email>
   </persona>
 </agenda>
